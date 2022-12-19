@@ -1,0 +1,37 @@
+{
+<<<<<<< HEAD
+  "name": "functions",
+  "description": "Cloud Functions for Firebase",
+  "scripts": {
+    "serve": "firebase emulators:start --only functions",
+    "shell": "firebase functions:shell",
+    "start": "npm run shell",
+    "deploy": "firebase deploy --only functions",
+    "logs": "firebase functions:log"
+  },
+  "engines": {
+    "node": "16"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "firebase-admin": "^10.0.2",
+    "firebase-functions": "^3.18.0", 
+=======
+  "dependencies": {
+>>>>>>> 82cca57 (initial commit)
+    "ethers": "^5.7.2",
+    "fs": "^0.0.1-security",
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.3.9",
+    "web3": "^1.8.1"
+<<<<<<< HEAD
+
+  },
+  "devDependencies": {
+    "firebase-functions-test": "^0.2.0"
+  },
+  "private": true
+=======
+  }
+>>>>>>> 82cca57 (initial commit)
+}
