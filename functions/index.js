@@ -32,6 +32,7 @@ exports.makeUppercase = functions.firestore.document('/messages/{documentId}')
     .onCreate((snap, context) => {
       // Grab the current value of what was written to Firestore.
       const original = snap.data().original;
+      console.log(original);
 
       // Access the parameter `{documentId}` with `context.params`
       functions.logger.log('Uppercasing', context.params.documentId, original);
@@ -46,8 +47,8 @@ exports.makeUppercase = functions.firestore.document('/messages/{documentId}')
 
 exports.addAddress = functions.https.onRequest(async (req, res) => {
     const original = req.query.text;
-    res.writeResult = await admin.firestore().collection("ProofForAddress").add({address_hash: original});
-    res.json({result: `Address: ${writeResult.id} added.`});
+    const writeResult = await admin.firestore().collection("ProofForAddress").add({address_hash: original});
+    res.json({result: `Message with ID: ${writeResult.id}, containing address: ${original} added.`});
 })
 
 exports.generateHackerProof = functions.https.onRequest(async (req, res) => {
@@ -143,7 +144,8 @@ exports.generateSpeakerProof = functions.https.onRequest(async (req, res) => {
 
 exports.generateProof = functions.firestore.document('/ProofForAddress/{documentId}')
     .onCreate((snap, context) => {
-        const original = snap.data().original;
+        const original = snap.data().address_hash;
+        console.log(original);
 
         let addressesHacker = [
             '0x4A54e0624A893915a767401413759f578C40ab3b', //real 
@@ -207,10 +209,19 @@ exports.generateProof = functions.firestore.document('/ProofForAddress/{document
         let hackerProof = merkleTreeHacker.getHexProof(ethers.utils.solidityKeccak256(["address"], [original]));
         let generalProof = merkleTreeGeneral.getHexProof(ethers.utils.solidityKeccak256(["address"], [original]));
         let teamProof = merkleTreeTeam.getHexProof(ethers.utils.solidityKeccak256(["address"], [original]));
-        let speakerProof = merkleTreeProof.getHexProof(ethers.utils.solidityKeccak256(["address"], [original]));
+        let speakerProof = merkleTreeSpeaker.getHexProof(ethers.utils.solidityKeccak256(["address"], [original]));
         
-        functions.logger.log('HackerProof', context.params.documentId, original);
+        functions.logger.log('Hacker Proof', context.params.documentId, original);
         return snap.ref.set({hackerProof}, {merge: true});
     })
 
 
+function hash(x) {
+    return ethers.utils.solidityKeccak256(["address"], [x]);
+}
+
+function getLeafNodes(addresses) {
+    return addresses.map((addr) =>
+        hash(addr)
+    );
+}

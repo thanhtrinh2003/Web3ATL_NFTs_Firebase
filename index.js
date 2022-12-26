@@ -53,6 +53,7 @@ exports.addAddress = functions.https.onRequest(async (req, res) => {
 exports.generateProof = functions.firestore.document('/ProofForAddress/{documentId}')
     .onCreate((snap, context) => {
         const original = snap.data().original;
+        console.log(original);
 
         let addressesHacker = [
             '0x4A54e0624A893915a767401413759f578C40ab3b', //real 
