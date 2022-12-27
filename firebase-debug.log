@@ -3833,3 +3833,934 @@ INFO: Detected non-HTTP/2 connection.
 [debug] [2022-12-26T23:35:18.689Z] Dec 26, 2022 5:35:18 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
 INFO: Detected non-HTTP/2 connection.
  {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:35:18 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:36:18.734Z] Dec 26, 2022 5:36:18 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:36:18 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:36:29.799Z] Dec 26, 2022 5:36:29 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:36:29 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:36:29.803Z] Dec 26, 2022 5:36:29 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:36:29 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:36:29.869Z] Dec 26, 2022 5:36:29 PM com.google.cloud.datastore.emulator.firestore.webchannel.FirestoreV1WebChannelAdapter$FirestoreListenHandler onClose
+INFO: channel closed
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:36:29 PM com.google.cloud.datastore.emulator.firestore.webchannel.FirestoreV1WebChannelAdapter$FirestoreListenHandler onClose\nINFO: channel closed\n"}}
+[debug] [2022-12-26T23:36:29.942Z] Dec 26, 2022 5:36:29 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:36:29 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:36:32.195Z] Dec 26, 2022 5:36:32 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:36:32 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:36:32.201Z] Dec 26, 2022 5:36:32 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:36:32 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:36:32.540Z] Dec 26, 2022 5:36:32 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:36:32 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:36:32.543Z] Dec 26, 2022 5:36:32 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:36:32 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:36:32.636Z] Dec 26, 2022 5:36:32 PM com.google.cloud.datastore.emulator.firestore.webchannel.FirestoreV1WebChannelAdapter$FirestoreListenHandler onClose
+INFO: channel closed
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:36:32 PM com.google.cloud.datastore.emulator.firestore.webchannel.FirestoreV1WebChannelAdapter$FirestoreListenHandler onClose\nINFO: channel closed\n"}}
+[debug] [2022-12-26T23:36:32.665Z] Dec 26, 2022 5:36:32 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:36:32 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:37:32.712Z] Dec 26, 2022 5:37:32 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:37:32 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:38:32.761Z] Dec 26, 2022 5:38:32 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:38:32 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:39:26.126Z] [work-queue] {"queueLength":1,"workRunningCount":0}
+[debug] [2022-12-26T23:39:26.127Z] [work-queue] {"queueLength":0,"workRunningCount":1}
+[debug] [2022-12-26T23:39:26.128Z] Accepted request GET /web3-atl-nfts/us-central1/generateHackerProof?text=0x4A54e0624A893915a767401413759f578C40ab3b --> us-central1-generateHackerProof
+[debug] [2022-12-26T23:39:26.140Z] [functions] Runtime ready! Sending request! {"metadata":{"emulator":{"name":"functions"},"message":"[functions] Runtime ready! Sending request!"}}
+[debug] [2022-12-26T23:39:26.140Z] [functions] Got req.url=/web3-atl-nfts/us-central1/generateHackerProof?text=0x4A54e0624A893915a767401413759f578C40ab3b, mapping to path=/?text=0x4A54e0624A893915a767401413759f578C40ab3b {"metadata":{"emulator":{"name":"functions"},"message":"[functions] Got req.url=/web3-atl-nfts/us-central1/generateHackerProof?text=0x4A54e0624A893915a767401413759f578C40ab3b, mapping to path=/?text=0x4A54e0624A893915a767401413759f578C40ab3b"}}
+[debug] [2022-12-26T23:39:26.141Z] [worker-pool] Cleaned up workers for us-central1-addAddress: 1 --> 0 {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] Cleaned up workers for us-central1-addAddress: 1 --> 0"}}
+[debug] [2022-12-26T23:39:26.141Z] [worker-pool] Cleaned up workers for us-central1-generateProof: 1 --> 0 {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] Cleaned up workers for us-central1-generateProof: 1 --> 0"}}
+[debug] [2022-12-26T23:39:26.148Z] [worker-pool] addWorker(us-central1-generateHackerProof) {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] addWorker(us-central1-generateHackerProof)"}}
+[debug] [2022-12-26T23:39:26.148Z] [worker-pool] Adding worker with key us-central1-generateHackerProof, total=1 {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] Adding worker with key us-central1-generateHackerProof, total=1"}}
+[debug] [2022-12-26T23:39:26.790Z] [runtime-status] [49834] Resolved module firebase-admin {"declared":true,"installed":true,"version":"10.3.0","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"[runtime-status] [49834] Resolved module firebase-admin {\"declared\":true,\"installed\":true,\"version\":\"10.3.0\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js\"}"}}
+[debug] [2022-12-26T23:39:26.791Z] [runtime-status] [49834] Resolved module firebase-functions {"declared":true,"installed":true,"version":"3.24.1","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"[runtime-status] [49834] Resolved module firebase-functions {\"declared\":true,\"installed\":true,\"version\":\"3.24.1\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js\"}"}}
+[debug] [2022-12-26T23:39:26.791Z] [runtime-status] [49834] Outgoing network have been stubbed. [{"name":"http","status":"mocked"},{"name":"http","status":"mocked"},{"name":"https","status":"mocked"},{"name":"https","status":"mocked"},{"name":"net","status":"mocked"}] {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"[runtime-status] [49834] Outgoing network have been stubbed. [{\"name\":\"http\",\"status\":\"mocked\"},{\"name\":\"http\",\"status\":\"mocked\"},{\"name\":\"https\",\"status\":\"mocked\"},{\"name\":\"https\",\"status\":\"mocked\"},{\"name\":\"net\",\"status\":\"mocked\"}]"}}
+[debug] [2022-12-26T23:39:26.791Z] [runtime-status] [49834] Resolved module firebase-functions {"declared":true,"installed":true,"version":"3.24.1","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"[runtime-status] [49834] Resolved module firebase-functions {\"declared\":true,\"installed\":true,\"version\":\"3.24.1\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js\"}"}}
+[debug] [2022-12-26T23:39:26.814Z] [runtime-status] [49834] Checked functions.config() {"config":{}} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"[runtime-status] [49834] Checked functions.config() {\"config\":{}}"}}
+[debug] [2022-12-26T23:39:26.814Z] [runtime-status] [49834] firebase-functions has been stubbed. {"functionsResolution":{"declared":true,"installed":true,"version":"3.24.1","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js"}} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"[runtime-status] [49834] firebase-functions has been stubbed. {\"functionsResolution\":{\"declared\":true,\"installed\":true,\"version\":\"3.24.1\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js\"}}"}}
+[debug] [2022-12-26T23:39:26.814Z] [runtime-status] [49834] Resolved module firebase-functions {"declared":true,"installed":true,"version":"3.24.1","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"[runtime-status] [49834] Resolved module firebase-functions {\"declared\":true,\"installed\":true,\"version\":\"3.24.1\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js\"}"}}
+[debug] [2022-12-26T23:39:26.815Z] [runtime-status] [49834] Resolved module firebase-admin {"declared":true,"installed":true,"version":"10.3.0","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"[runtime-status] [49834] Resolved module firebase-admin {\"declared\":true,\"installed\":true,\"version\":\"10.3.0\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js\"}"}}
+[debug] [2022-12-26T23:39:26.815Z] [runtime-status] [49834] Resolved module firebase-functions {"declared":true,"installed":true,"version":"3.24.1","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"[runtime-status] [49834] Resolved module firebase-functions {\"declared\":true,\"installed\":true,\"version\":\"3.24.1\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js\"}"}}
+[debug] [2022-12-26T23:39:26.815Z] [runtime-status] [49834] firebase-admin has been stubbed. {"adminResolution":{"declared":true,"installed":true,"version":"10.3.0","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js"}} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"[runtime-status] [49834] firebase-admin has been stubbed. {\"adminResolution\":{\"declared\":true,\"installed\":true,\"version\":\"10.3.0\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js\"}}"}}
+[debug] [2022-12-26T23:39:27.145Z] [runtime-status] [49834] initializeApp(DEFAULT) {"storageBucket":"web3-atl-nfts.appspot.com","projectId":"web3-atl-nfts"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"[runtime-status] [49834] initializeApp(DEFAULT) {\"storageBucket\":\"web3-atl-nfts.appspot.com\",\"projectId\":\"web3-atl-nfts\"}"}}
+[debug] [2022-12-26T23:39:27.148Z] [runtime-status] [49834] Functions runtime initialized. {"cwd":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions","node_version":"16.15.1"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"[runtime-status] [49834] Functions runtime initialized. {\"cwd\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions\",\"node_version\":\"16.15.1\"}"}}
+[debug] [2022-12-26T23:39:27.148Z] [runtime-status] [49834] Listening to port: /var/folders/ts/d5qnrw196k7c1hybt81dzw2m0000gn/T/fire_emu_3d5b4e04d982f43e.sock {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"[runtime-status] [49834] Listening to port: /var/folders/ts/d5qnrw196k7c1hybt81dzw2m0000gn/T/fire_emu_3d5b4e04d982f43e.sock"}}
+[debug] [2022-12-26T23:39:27.163Z] [worker-us-central1-generateHackerProof-c41680e4-e4d9-4bc3-89ec-894d44477cbf]: IDLE {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-generateHackerProof-c41680e4-e4d9-4bc3-89ec-894d44477cbf]: IDLE"}}
+[debug] [2022-12-26T23:39:27.163Z] [worker-pool] submitRequest(triggerId=us-central1-generateHackerProof) {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] submitRequest(triggerId=us-central1-generateHackerProof)"}}
+[debug] [2022-12-26T23:39:27.163Z] [worker-us-central1-generateHackerProof-c41680e4-e4d9-4bc3-89ec-894d44477cbf]: BUSY {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-generateHackerProof-c41680e4-e4d9-4bc3-89ec-894d44477cbf]: BUSY"}}
+[info] i  functions: Beginning execution of "generateHackerProof" {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"Beginning execution of \"generateHackerProof\""}}
+[debug] [2022-12-26T23:39:27.342Z] Dec 26, 2022 5:39:27 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:39:27 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:39:27.401Z] [worker-us-central1-generateHackerProof-c41680e4-e4d9-4bc3-89ec-894d44477cbf]: IDLE {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-generateHackerProof-c41680e4-e4d9-4bc3-89ec-894d44477cbf]: IDLE"}}
+[debug] [2022-12-26T23:39:27.401Z] [work-queue] {"queueLength":0,"workRunningCount":0}
+[info] i  functions: Finished "generateHackerProof" in 235.383917ms {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"Finished \"generateHackerProof\" in 235.383917ms"}}
+[debug] [2022-12-26T23:39:32.820Z] Dec 26, 2022 5:39:32 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:39:32 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:39:35.321Z] Dec 26, 2022 5:39:35 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:39:35 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:39:38.030Z] Dec 26, 2022 5:39:38 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:39:38 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:39:38.095Z] Dec 26, 2022 5:39:38 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:39:38 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:39:38.923Z] Dec 26, 2022 5:39:38 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:39:38 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:39:43.428Z] Dec 26, 2022 5:39:43 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:39:43 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:40:35.310Z] File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers {"metadata":{"emulator":{"name":"functions"},"message":"File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers"}}
+[debug] [2022-12-26T23:40:36.312Z] Validating nodejs source
+[warn] ⚠  functions: package.json indicates an outdated version of firebase-functions. Please upgrade using npm install --save firebase-functions@latest in your functions directory. 
+[warn] ⚠  functions: Please note that there will be breaking changes when you upgrade. 
+[debug] [2022-12-26T23:40:52.371Z] > [functions] package.json contents: {
+  "name": "functions",
+  "description": "Cloud Functions for Firebase",
+  "scripts": {
+    "serve": "firebase emulators:start --only functions",
+    "shell": "firebase functions:shell",
+    "start": "npm run shell",
+    "deploy": "firebase deploy --only functions",
+    "logs": "firebase functions:log"
+  },
+  "engines": {
+    "node": "16"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "firebase-admin": "^10.0.2",
+    "firebase-functions": "^3.18.0",
+    "ethers": "^5.7.2",
+    "fs": "^0.0.1-security",
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.3.9",
+    "web3": "^1.8.1"
+  },
+  "devDependencies": {
+    "firebase-functions-test": "^0.2.0"
+  },
+  "private": true
+}
+[debug] [2022-12-26T23:40:52.371Z] Building nodejs source
+[debug] [2022-12-26T23:40:52.371Z] Analyzing nodejs backend spec
+[debug] [2022-12-26T23:40:52.371Z] Could not find functions.yaml. Must use http discovery
+[debug] [2022-12-26T23:40:52.377Z] Dec 26, 2022 5:40:43 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:40:43 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:40:52.488Z] Serving at port 9005
+
+[debug] [2022-12-26T23:40:52.505Z] [work-queue] {"queueLength":1,"workRunningCount":0}
+[debug] [2022-12-26T23:40:52.505Z] [work-queue] {"queueLength":0,"workRunningCount":1}
+[debug] [2022-12-26T23:40:52.505Z] Accepted request GET /web3-atl-nfts/us-central1/generateHackerProof?text=0x4A54e0624A893915a767401413759f578C40ab3b --> us-central1-generateHackerProof
+[debug] [2022-12-26T23:40:52.507Z] [functions] Runtime ready! Sending request! {"metadata":{"emulator":{"name":"functions"},"message":"[functions] Runtime ready! Sending request!"}}
+[debug] [2022-12-26T23:40:52.507Z] [functions] Got req.url=/web3-atl-nfts/us-central1/generateHackerProof?text=0x4A54e0624A893915a767401413759f578C40ab3b, mapping to path=/?text=0x4A54e0624A893915a767401413759f578C40ab3b {"metadata":{"emulator":{"name":"functions"},"message":"[functions] Got req.url=/web3-atl-nfts/us-central1/generateHackerProof?text=0x4A54e0624A893915a767401413759f578C40ab3b, mapping to path=/?text=0x4A54e0624A893915a767401413759f578C40ab3b"}}
+[debug] [2022-12-26T23:40:52.507Z] [worker-pool] submitRequest(triggerId=us-central1-generateHackerProof) {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] submitRequest(triggerId=us-central1-generateHackerProof)"}}
+[debug] [2022-12-26T23:40:52.507Z] [worker-us-central1-generateHackerProof-c41680e4-e4d9-4bc3-89ec-894d44477cbf]: BUSY {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-generateHackerProof-c41680e4-e4d9-4bc3-89ec-894d44477cbf]: BUSY"}}
+[info] i  functions: Beginning execution of "generateHackerProof" {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"Beginning execution of \"generateHackerProof\""}}
+[debug] [2022-12-26T23:40:52.549Z] [worker-us-central1-generateHackerProof-c41680e4-e4d9-4bc3-89ec-894d44477cbf]: IDLE {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-generateHackerProof-c41680e4-e4d9-4bc3-89ec-894d44477cbf]: IDLE"}}
+[debug] [2022-12-26T23:40:52.549Z] [work-queue] {"queueLength":0,"workRunningCount":0}
+[info] i  functions: Finished "generateHackerProof" in 39.305834ms {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"Finished \"generateHackerProof\" in 39.305834ms"}}
+[debug] [2022-12-26T23:40:52.928Z] Got response from /__/functions.yaml {"endpoints":{"addMessage":{"platform":"gcfv1","httpsTrigger":{},"entryPoint":"addMessage"},"makeUppercase":{"platform":"gcfv1","eventTrigger":{"eventType":"providers/cloud.firestore/eventTypes/document.create","eventFilters":{"resource":"projects/web3-atl-nfts/databases/(default)/documents/messages/{documentId}"},"retry":false},"labels":{},"entryPoint":"makeUppercase"},"addAddress":{"platform":"gcfv1","httpsTrigger":{},"entryPoint":"addAddress"},"generateHackerProof":{"platform":"gcfv1","httpsTrigger":{},"entryPoint":"generateHackerProof"},"generateGeneralProof":{"platform":"gcfv1","httpsTrigger":{},"entryPoint":"generateGeneralProof"},"generateTeamProof":{"platform":"gcfv1","httpsTrigger":{},"entryPoint":"generateTeamProof"},"generateSpeakerProof":{"platform":"gcfv1","httpsTrigger":{},"entryPoint":"generateSpeakerProof"},"generateProof":{"platform":"gcfv1","eventTrigger":{"eventType":"providers/cloud.firestore/eventTypes/document.create","eventFilters":{"resource":"projects/web3-atl-nfts/databases/(default)/documents/ProofForAddress/{documentId}"},"retry":false},"labels":{},"entryPoint":"generateProof"}},"specVersion":"v1alpha1","requiredAPIs":[]}
+[debug] [2022-12-26T23:40:52.931Z] shutdown requested via /__/quitquitquit
+
+[info] ✔  functions: Loaded functions definitions from source: addMessage, makeUppercase, addAddress, generateHackerProof, generateGeneralProof, generateTeamProof, generateSpeakerProof, generateProof. {"metadata":{"emulator":{"name":"functions"},"message":"Loaded functions definitions from source: addMessage, makeUppercase, addAddress, generateHackerProof, generateGeneralProof, generateTeamProof, generateSpeakerProof, generateProof."}}
+[debug] [2022-12-26T23:40:52.935Z] [worker-pool] Shutting down IDLE worker (us-central1-generateHackerProof) {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] Shutting down IDLE worker (us-central1-generateHackerProof)"}}
+[debug] [2022-12-26T23:40:52.935Z] [worker-us-central1-generateHackerProof-c41680e4-e4d9-4bc3-89ec-894d44477cbf]: FINISHING {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-generateHackerProof-c41680e4-e4d9-4bc3-89ec-894d44477cbf]: FINISHING"}}
+[debug] [2022-12-26T23:40:52.942Z] [worker-us-central1-generateHackerProof-c41680e4-e4d9-4bc3-89ec-894d44477cbf]: exited {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-generateHackerProof-c41680e4-e4d9-4bc3-89ec-894d44477cbf]: exited"}}
+[debug] [2022-12-26T23:40:52.942Z] [worker-us-central1-generateHackerProof-c41680e4-e4d9-4bc3-89ec-894d44477cbf]: FINISHED {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-generateHackerProof-c41680e4-e4d9-4bc3-89ec-894d44477cbf]: FINISHED"}}
+[debug] [2022-12-26T23:40:57.200Z] Dec 26, 2022 5:40:57 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:40:57 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:41:33.130Z] File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers {"metadata":{"emulator":{"name":"functions"},"message":"File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers"}}
+[debug] [2022-12-26T23:41:33.461Z] File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers {"metadata":{"emulator":{"name":"functions"},"message":"File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers"}}
+[debug] [2022-12-26T23:41:33.593Z] File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers {"metadata":{"emulator":{"name":"functions"},"message":"File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers"}}
+[debug] [2022-12-26T23:41:33.693Z] File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers {"metadata":{"emulator":{"name":"functions"},"message":"File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers"}}
+[debug] [2022-12-26T23:41:34.695Z] Validating nodejs source
+[warn] ⚠  functions: package.json indicates an outdated version of firebase-functions. Please upgrade using npm install --save firebase-functions@latest in your functions directory. 
+[warn] ⚠  functions: Please note that there will be breaking changes when you upgrade. 
+[debug] [2022-12-26T23:41:35.949Z] > [functions] package.json contents: {
+  "name": "functions",
+  "description": "Cloud Functions for Firebase",
+  "scripts": {
+    "serve": "firebase emulators:start --only functions",
+    "shell": "firebase functions:shell",
+    "start": "npm run shell",
+    "deploy": "firebase deploy --only functions",
+    "logs": "firebase functions:log"
+  },
+  "engines": {
+    "node": "16"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "firebase-admin": "^10.0.2",
+    "firebase-functions": "^3.18.0",
+    "ethers": "^5.7.2",
+    "fs": "^0.0.1-security",
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.3.9",
+    "web3": "^1.8.1"
+  },
+  "devDependencies": {
+    "firebase-functions-test": "^0.2.0"
+  },
+  "private": true
+}
+[debug] [2022-12-26T23:41:35.949Z] Building nodejs source
+[debug] [2022-12-26T23:41:35.949Z] Analyzing nodejs backend spec
+[debug] [2022-12-26T23:41:35.949Z] Could not find functions.yaml. Must use http discovery
+[debug] [2022-12-26T23:41:36.046Z] Serving at port 9005
+
+[debug] [2022-12-26T23:41:36.486Z] Got response from /__/functions.yaml {"endpoints":{"addMessage":{"platform":"gcfv1","httpsTrigger":{},"entryPoint":"addMessage"},"makeUppercase":{"platform":"gcfv1","eventTrigger":{"eventType":"providers/cloud.firestore/eventTypes/document.create","eventFilters":{"resource":"projects/web3-atl-nfts/databases/(default)/documents/messages/{documentId}"},"retry":false},"labels":{},"entryPoint":"makeUppercase"},"addAddress":{"platform":"gcfv1","httpsTrigger":{},"entryPoint":"addAddress"},"generateHackerProof":{"platform":"gcfv1","httpsTrigger":{},"entryPoint":"generateHackerProof"},"generateGeneralProof":{"platform":"gcfv1","httpsTrigger":{},"entryPoint":"generateGeneralProof"},"generateTeamProof":{"platform":"gcfv1","httpsTrigger":{},"entryPoint":"generateTeamProof"},"generateSpeakerProof":{"platform":"gcfv1","httpsTrigger":{},"entryPoint":"generateSpeakerProof"},"generateProof":{"platform":"gcfv1","eventTrigger":{"eventType":"providers/cloud.firestore/eventTypes/document.create","eventFilters":{"resource":"projects/web3-atl-nfts/databases/(default)/documents/ProofForAddress/{documentId}"},"retry":false},"labels":{},"entryPoint":"generateProof"}},"specVersion":"v1alpha1","requiredAPIs":[]}
+[debug] [2022-12-26T23:41:36.489Z] shutdown requested via /__/quitquitquit
+
+[info] ✔  functions: Loaded functions definitions from source: addMessage, makeUppercase, addAddress, generateHackerProof, generateGeneralProof, generateTeamProof, generateSpeakerProof, generateProof. {"metadata":{"emulator":{"name":"functions"},"message":"Loaded functions definitions from source: addMessage, makeUppercase, addAddress, generateHackerProof, generateGeneralProof, generateTeamProof, generateSpeakerProof, generateProof."}}
+[debug] [2022-12-26T23:41:39.890Z] Dec 26, 2022 5:41:39 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:41:39 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:41:46.746Z] File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers {"metadata":{"emulator":{"name":"functions"},"message":"File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers"}}
+[debug] [2022-12-26T23:41:46.845Z] File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers {"metadata":{"emulator":{"name":"functions"},"message":"File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers"}}
+[debug] [2022-12-26T23:41:46.946Z] File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers {"metadata":{"emulator":{"name":"functions"},"message":"File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers"}}
+[debug] [2022-12-26T23:41:47.114Z] File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers {"metadata":{"emulator":{"name":"functions"},"message":"File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers"}}
+[debug] [2022-12-26T23:41:47.215Z] File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers {"metadata":{"emulator":{"name":"functions"},"message":"File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers"}}
+[debug] [2022-12-26T23:41:48.219Z] Validating nodejs source
+[warn] ⚠  functions: package.json indicates an outdated version of firebase-functions. Please upgrade using npm install --save firebase-functions@latest in your functions directory. 
+[warn] ⚠  functions: Please note that there will be breaking changes when you upgrade. 
+[debug] [2022-12-26T23:41:51.212Z] > [functions] package.json contents: {
+  "name": "functions",
+  "description": "Cloud Functions for Firebase",
+  "scripts": {
+    "serve": "firebase emulators:start --only functions",
+    "shell": "firebase functions:shell",
+    "start": "npm run shell",
+    "deploy": "firebase deploy --only functions",
+    "logs": "firebase functions:log"
+  },
+  "engines": {
+    "node": "16"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "firebase-admin": "^10.0.2",
+    "firebase-functions": "^3.18.0",
+    "ethers": "^5.7.2",
+    "fs": "^0.0.1-security",
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.3.9",
+    "web3": "^1.8.1"
+  },
+  "devDependencies": {
+    "firebase-functions-test": "^0.2.0"
+  },
+  "private": true
+}
+[debug] [2022-12-26T23:41:51.212Z] Building nodejs source
+[debug] [2022-12-26T23:41:51.212Z] Analyzing nodejs backend spec
+[debug] [2022-12-26T23:41:51.213Z] Could not find functions.yaml. Must use http discovery
+[debug] [2022-12-26T23:41:51.220Z] [work-queue] {"queueLength":1,"workRunningCount":0}
+[debug] [2022-12-26T23:41:51.220Z] [work-queue] {"queueLength":0,"workRunningCount":1}
+[debug] [2022-12-26T23:41:51.220Z] Accepted request GET /web3-atl-nfts/us-central1/generateHackerProof?text=0x4A54e0624A893915a767401413759f578C40ab3b --> us-central1-generateHackerProof
+[debug] [2022-12-26T23:41:51.222Z] [functions] Runtime ready! Sending request! {"metadata":{"emulator":{"name":"functions"},"message":"[functions] Runtime ready! Sending request!"}}
+[debug] [2022-12-26T23:41:51.222Z] [functions] Got req.url=/web3-atl-nfts/us-central1/generateHackerProof?text=0x4A54e0624A893915a767401413759f578C40ab3b, mapping to path=/?text=0x4A54e0624A893915a767401413759f578C40ab3b {"metadata":{"emulator":{"name":"functions"},"message":"[functions] Got req.url=/web3-atl-nfts/us-central1/generateHackerProof?text=0x4A54e0624A893915a767401413759f578C40ab3b, mapping to path=/?text=0x4A54e0624A893915a767401413759f578C40ab3b"}}
+[debug] [2022-12-26T23:41:51.223Z] [worker-pool] Cleaned up workers for us-central1-generateHackerProof: 1 --> 0 {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] Cleaned up workers for us-central1-generateHackerProof: 1 --> 0"}}
+[debug] [2022-12-26T23:41:51.226Z] [worker-pool] addWorker(us-central1-generateHackerProof) {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] addWorker(us-central1-generateHackerProof)"}}
+[debug] [2022-12-26T23:41:51.226Z] [worker-pool] Adding worker with key us-central1-generateHackerProof, total=1 {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] Adding worker with key us-central1-generateHackerProof, total=1"}}
+[debug] [2022-12-26T23:41:51.314Z] Serving at port 9005
+
+[debug] [2022-12-26T23:41:51.839Z] [runtime-status] [50161] Resolved module firebase-admin {"declared":true,"installed":true,"version":"10.3.0","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"[runtime-status] [50161] Resolved module firebase-admin {\"declared\":true,\"installed\":true,\"version\":\"10.3.0\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js\"}"}}
+[debug] [2022-12-26T23:41:51.839Z] [runtime-status] [50161] Resolved module firebase-functions {"declared":true,"installed":true,"version":"3.24.1","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"[runtime-status] [50161] Resolved module firebase-functions {\"declared\":true,\"installed\":true,\"version\":\"3.24.1\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js\"}"}}
+[debug] [2022-12-26T23:41:51.839Z] [runtime-status] [50161] Outgoing network have been stubbed. [{"name":"http","status":"mocked"},{"name":"http","status":"mocked"},{"name":"https","status":"mocked"},{"name":"https","status":"mocked"},{"name":"net","status":"mocked"}] {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"[runtime-status] [50161] Outgoing network have been stubbed. [{\"name\":\"http\",\"status\":\"mocked\"},{\"name\":\"http\",\"status\":\"mocked\"},{\"name\":\"https\",\"status\":\"mocked\"},{\"name\":\"https\",\"status\":\"mocked\"},{\"name\":\"net\",\"status\":\"mocked\"}]"}}
+[debug] [2022-12-26T23:41:51.839Z] [runtime-status] [50161] Resolved module firebase-functions {"declared":true,"installed":true,"version":"3.24.1","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"[runtime-status] [50161] Resolved module firebase-functions {\"declared\":true,\"installed\":true,\"version\":\"3.24.1\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js\"}"}}
+[debug] [2022-12-26T23:41:51.868Z] [runtime-status] [50161] Checked functions.config() {"config":{}} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"[runtime-status] [50161] Checked functions.config() {\"config\":{}}"}}
+[debug] [2022-12-26T23:41:51.868Z] [runtime-status] [50161] firebase-functions has been stubbed. {"functionsResolution":{"declared":true,"installed":true,"version":"3.24.1","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js"}} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"[runtime-status] [50161] firebase-functions has been stubbed. {\"functionsResolution\":{\"declared\":true,\"installed\":true,\"version\":\"3.24.1\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js\"}}"}}
+[debug] [2022-12-26T23:41:51.868Z] [runtime-status] [50161] Resolved module firebase-functions {"declared":true,"installed":true,"version":"3.24.1","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"[runtime-status] [50161] Resolved module firebase-functions {\"declared\":true,\"installed\":true,\"version\":\"3.24.1\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js\"}"}}
+[debug] [2022-12-26T23:41:51.869Z] [runtime-status] [50161] Resolved module firebase-admin {"declared":true,"installed":true,"version":"10.3.0","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"[runtime-status] [50161] Resolved module firebase-admin {\"declared\":true,\"installed\":true,\"version\":\"10.3.0\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js\"}"}}
+[debug] [2022-12-26T23:41:51.869Z] [runtime-status] [50161] Resolved module firebase-functions {"declared":true,"installed":true,"version":"3.24.1","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"[runtime-status] [50161] Resolved module firebase-functions {\"declared\":true,\"installed\":true,\"version\":\"3.24.1\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js\"}"}}
+[debug] [2022-12-26T23:41:51.869Z] [runtime-status] [50161] firebase-admin has been stubbed. {"adminResolution":{"declared":true,"installed":true,"version":"10.3.0","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js"}} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"[runtime-status] [50161] firebase-admin has been stubbed. {\"adminResolution\":{\"declared\":true,\"installed\":true,\"version\":\"10.3.0\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js\"}}"}}
+[debug] [2022-12-26T23:41:52.215Z] [runtime-status] [50161] initializeApp(DEFAULT) {"storageBucket":"web3-atl-nfts.appspot.com","projectId":"web3-atl-nfts"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"[runtime-status] [50161] initializeApp(DEFAULT) {\"storageBucket\":\"web3-atl-nfts.appspot.com\",\"projectId\":\"web3-atl-nfts\"}"}}
+[debug] [2022-12-26T23:41:52.218Z] [runtime-status] [50161] Functions runtime initialized. {"cwd":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions","node_version":"16.15.1"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"[runtime-status] [50161] Functions runtime initialized. {\"cwd\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions\",\"node_version\":\"16.15.1\"}"}}
+[debug] [2022-12-26T23:41:52.218Z] [runtime-status] [50161] Listening to port: /var/folders/ts/d5qnrw196k7c1hybt81dzw2m0000gn/T/fire_emu_1869e7062b380fe3.sock {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"[runtime-status] [50161] Listening to port: /var/folders/ts/d5qnrw196k7c1hybt81dzw2m0000gn/T/fire_emu_1869e7062b380fe3.sock"}}
+[debug] [2022-12-26T23:41:52.243Z] [worker-us-central1-generateHackerProof-89198f35-9709-4428-9768-96431f5f0022]: IDLE {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-generateHackerProof-89198f35-9709-4428-9768-96431f5f0022]: IDLE"}}
+[debug] [2022-12-26T23:41:52.243Z] [worker-pool] submitRequest(triggerId=us-central1-generateHackerProof) {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] submitRequest(triggerId=us-central1-generateHackerProof)"}}
+[debug] [2022-12-26T23:41:52.243Z] [worker-us-central1-generateHackerProof-89198f35-9709-4428-9768-96431f5f0022]: BUSY {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-generateHackerProof-89198f35-9709-4428-9768-96431f5f0022]: BUSY"}}
+[info] i  functions: Beginning execution of "generateHackerProof" {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"Beginning execution of \"generateHackerProof\""}}
+[debug] [2022-12-26T23:41:52.405Z] Dec 26, 2022 5:41:52 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:41:52 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:41:52.450Z] Dec 26, 2022 5:41:52 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:41:52 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:41:52.491Z] [worker-us-central1-generateHackerProof-89198f35-9709-4428-9768-96431f5f0022]: IDLE {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-generateHackerProof-89198f35-9709-4428-9768-96431f5f0022]: IDLE"}}
+[debug] [2022-12-26T23:41:52.491Z] [work-queue] {"queueLength":0,"workRunningCount":0}
+[info] i  functions: Finished "generateHackerProof" in 246.394167ms {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"Finished \"generateHackerProof\" in 246.394167ms"}}
+[debug] [2022-12-26T23:41:57.250Z] Dec 26, 2022 5:41:57 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:41:57 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:41:58.050Z] Dec 26, 2022 5:41:58 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:41:58 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:41:58.393Z] Dec 26, 2022 5:41:58 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:41:58 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:41:58.721Z] Got response from /__/functions.yaml {"endpoints":{"addMessage":{"platform":"gcfv1","httpsTrigger":{},"entryPoint":"addMessage"},"makeUppercase":{"platform":"gcfv1","eventTrigger":{"eventType":"providers/cloud.firestore/eventTypes/document.create","eventFilters":{"resource":"projects/web3-atl-nfts/databases/(default)/documents/messages/{documentId}"},"retry":false},"labels":{},"entryPoint":"makeUppercase"},"addAddress":{"platform":"gcfv1","httpsTrigger":{},"entryPoint":"addAddress"},"generateHackerProof":{"platform":"gcfv1","httpsTrigger":{},"entryPoint":"generateHackerProof"},"generateGeneralProof":{"platform":"gcfv1","httpsTrigger":{},"entryPoint":"generateGeneralProof"},"generateTeamProof":{"platform":"gcfv1","httpsTrigger":{},"entryPoint":"generateTeamProof"},"generateSpeakerProof":{"platform":"gcfv1","httpsTrigger":{},"entryPoint":"generateSpeakerProof"},"generateProof":{"platform":"gcfv1","eventTrigger":{"eventType":"providers/cloud.firestore/eventTypes/document.create","eventFilters":{"resource":"projects/web3-atl-nfts/databases/(default)/documents/ProofForAddress/{documentId}"},"retry":false},"labels":{},"entryPoint":"generateProof"}},"specVersion":"v1alpha1","requiredAPIs":[]}
+[debug] [2022-12-26T23:41:58.723Z] shutdown requested via /__/quitquitquit
+
+[info] ✔  functions: Loaded functions definitions from source: addMessage, makeUppercase, addAddress, generateHackerProof, generateGeneralProof, generateTeamProof, generateSpeakerProof, generateProof. {"metadata":{"emulator":{"name":"functions"},"message":"Loaded functions definitions from source: addMessage, makeUppercase, addAddress, generateHackerProof, generateGeneralProof, generateTeamProof, generateSpeakerProof, generateProof."}}
+[debug] [2022-12-26T23:41:58.728Z] [worker-pool] Shutting down IDLE worker (us-central1-generateHackerProof) {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] Shutting down IDLE worker (us-central1-generateHackerProof)"}}
+[debug] [2022-12-26T23:41:58.728Z] [worker-us-central1-generateHackerProof-89198f35-9709-4428-9768-96431f5f0022]: FINISHING {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-generateHackerProof-89198f35-9709-4428-9768-96431f5f0022]: FINISHING"}}
+[debug] [2022-12-26T23:41:58.732Z] [worker-us-central1-generateHackerProof-89198f35-9709-4428-9768-96431f5f0022]: exited {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-generateHackerProof-89198f35-9709-4428-9768-96431f5f0022]: exited"}}
+[debug] [2022-12-26T23:41:58.732Z] [worker-us-central1-generateHackerProof-89198f35-9709-4428-9768-96431f5f0022]: FINISHED {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-generateHackerProof-89198f35-9709-4428-9768-96431f5f0022]: FINISHED"}}
+[debug] [2022-12-26T23:42:58.459Z] Dec 26, 2022 5:42:58 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:42:58 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:43:58.493Z] Dec 26, 2022 5:43:58 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:43:58 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:44:41.792Z] Dec 26, 2022 5:44:41 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:44:41 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:44:58.538Z] Dec 26, 2022 5:44:58 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:44:58 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:45:58.611Z] Dec 26, 2022 5:45:58 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:45:58 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:46:58.660Z] Dec 26, 2022 5:46:58 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:46:58 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:47:58.721Z] Dec 26, 2022 5:47:58 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:47:58 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:49:14.647Z] Dec 26, 2022 5:49:14 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:49:14 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:50:14.710Z] Dec 26, 2022 5:50:14 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:50:14 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:51:14.780Z] Dec 26, 2022 5:51:14 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:51:14 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:51:44.733Z] File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers {"metadata":{"emulator":{"name":"functions"},"message":"File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers"}}
+[debug] [2022-12-26T23:51:45.737Z] Validating nodejs source
+[warn] ⚠  functions: package.json indicates an outdated version of firebase-functions. Please upgrade using npm install --save firebase-functions@latest in your functions directory. 
+[warn] ⚠  functions: Please note that there will be breaking changes when you upgrade. 
+[debug] [2022-12-26T23:51:47.182Z] > [functions] package.json contents: {
+  "name": "functions",
+  "description": "Cloud Functions for Firebase",
+  "scripts": {
+    "serve": "firebase emulators:start --only functions",
+    "shell": "firebase functions:shell",
+    "start": "npm run shell",
+    "deploy": "firebase deploy --only functions",
+    "logs": "firebase functions:log"
+  },
+  "engines": {
+    "node": "16"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "firebase-admin": "^10.0.2",
+    "firebase-functions": "^3.18.0",
+    "ethers": "^5.7.2",
+    "fs": "^0.0.1-security",
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.3.9",
+    "web3": "^1.8.1"
+  },
+  "devDependencies": {
+    "firebase-functions-test": "^0.2.0"
+  },
+  "private": true
+}
+[debug] [2022-12-26T23:51:47.182Z] Building nodejs source
+[debug] [2022-12-26T23:51:47.182Z] Analyzing nodejs backend spec
+[debug] [2022-12-26T23:51:47.183Z] Could not find functions.yaml. Must use http discovery
+[debug] [2022-12-26T23:51:47.287Z] Serving at port 9005
+
+[debug] [2022-12-26T23:51:47.293Z] Got response from /__/functions.yaml Failed to generate manifest from function source: SyntaxError: Unexpected token '{'
+[debug] [2022-12-26T23:51:47.297Z] Failed to parse functions.yamlincomplete explicit mapping pair; a key node is missed; or followed by a non-tabulated empty line at line 1, column 62:
+     ... rom function source: SyntaxError: Unexpected token '{'
+                                         ^ {"name":"YAMLException","reason":"incomplete explicit mapping pair; a key node is missed; or followed by a non-tabulated empty line","mark":{"name":null,"buffer":"Failed to generate manifest from function source: SyntaxError: Unexpected token '{'\n\u0000","position":61,"line":0,"column":61},"message":"incomplete explicit mapping pair; a key node is missed; or followed by a non-tabulated empty line at line 1, column 62:\n     ... rom function source: SyntaxError: Unexpected token '{'\n                                         ^"}
+[debug] [2022-12-26T23:51:47.299Z] shutdown requested via /__/quitquitquit
+
+[error] ⬢  functions: Failed to load function definition from source: FirebaseError: Failed to load function definition from source: Failed to generate manifest from function source: SyntaxError: Unexpected token '{' {"metadata":{"emulator":{"name":"functions"},"message":"Failed to load function definition from source: FirebaseError: Failed to load function definition from source: Failed to generate manifest from function source: SyntaxError: Unexpected token '{'"}}
+[debug] [2022-12-26T23:51:54.347Z] File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers {"metadata":{"emulator":{"name":"functions"},"message":"File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers"}}
+[debug] [2022-12-26T23:51:54.447Z] File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers {"metadata":{"emulator":{"name":"functions"},"message":"File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers"}}
+[debug] [2022-12-26T23:51:55.448Z] Validating nodejs source
+[warn] ⚠  functions: package.json indicates an outdated version of firebase-functions. Please upgrade using npm install --save firebase-functions@latest in your functions directory. 
+[warn] ⚠  functions: Please note that there will be breaking changes when you upgrade. 
+[debug] [2022-12-26T23:51:56.126Z] > [functions] package.json contents: {
+  "name": "functions",
+  "description": "Cloud Functions for Firebase",
+  "scripts": {
+    "serve": "firebase emulators:start --only functions",
+    "shell": "firebase functions:shell",
+    "start": "npm run shell",
+    "deploy": "firebase deploy --only functions",
+    "logs": "firebase functions:log"
+  },
+  "engines": {
+    "node": "16"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "firebase-admin": "^10.0.2",
+    "firebase-functions": "^3.18.0",
+    "ethers": "^5.7.2",
+    "fs": "^0.0.1-security",
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.3.9",
+    "web3": "^1.8.1"
+  },
+  "devDependencies": {
+    "firebase-functions-test": "^0.2.0"
+  },
+  "private": true
+}
+[debug] [2022-12-26T23:51:56.126Z] Building nodejs source
+[debug] [2022-12-26T23:51:56.126Z] Analyzing nodejs backend spec
+[debug] [2022-12-26T23:51:56.126Z] Could not find functions.yaml. Must use http discovery
+[debug] [2022-12-26T23:51:56.213Z] Serving at port 9005
+
+[debug] [2022-12-26T23:51:56.219Z] Got response from /__/functions.yaml Failed to generate manifest from function source: SyntaxError: Unexpected token '{'
+[debug] [2022-12-26T23:51:56.219Z] Failed to parse functions.yamlincomplete explicit mapping pair; a key node is missed; or followed by a non-tabulated empty line at line 1, column 62:
+     ... rom function source: SyntaxError: Unexpected token '{'
+                                         ^ {"name":"YAMLException","reason":"incomplete explicit mapping pair; a key node is missed; or followed by a non-tabulated empty line","mark":{"name":null,"buffer":"Failed to generate manifest from function source: SyntaxError: Unexpected token '{'\n\u0000","position":61,"line":0,"column":61},"message":"incomplete explicit mapping pair; a key node is missed; or followed by a non-tabulated empty line at line 1, column 62:\n     ... rom function source: SyntaxError: Unexpected token '{'\n                                         ^"}
+[debug] [2022-12-26T23:51:56.222Z] shutdown requested via /__/quitquitquit
+
+[error] ⬢  functions: Failed to load function definition from source: FirebaseError: Failed to load function definition from source: Failed to generate manifest from function source: SyntaxError: Unexpected token '{' {"metadata":{"emulator":{"name":"functions"},"message":"Failed to load function definition from source: FirebaseError: Failed to load function definition from source: Failed to generate manifest from function source: SyntaxError: Unexpected token '{'"}}
+[debug] [2022-12-26T23:52:14.887Z] Dec 26, 2022 5:52:14 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:52:14 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:53:14.921Z] Dec 26, 2022 5:53:14 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:53:14 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:54:14.956Z] Dec 26, 2022 5:54:14 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:54:14 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:55:30.835Z] Dec 26, 2022 5:55:30 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:55:30 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:56:52.191Z] Dec 26, 2022 5:56:52 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:56:52 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:57:52.275Z] Dec 26, 2022 5:57:52 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:57:52 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:58:47.538Z] File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers {"metadata":{"emulator":{"name":"functions"},"message":"File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers"}}
+[debug] [2022-12-26T23:58:47.638Z] File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers {"metadata":{"emulator":{"name":"functions"},"message":"File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers"}}
+[debug] [2022-12-26T23:58:47.784Z] File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers {"metadata":{"emulator":{"name":"functions"},"message":"File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers"}}
+[debug] [2022-12-26T23:58:47.885Z] File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers {"metadata":{"emulator":{"name":"functions"},"message":"File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers"}}
+[debug] [2022-12-26T23:58:47.986Z] File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers {"metadata":{"emulator":{"name":"functions"},"message":"File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers"}}
+[debug] [2022-12-26T23:58:48.088Z] File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers {"metadata":{"emulator":{"name":"functions"},"message":"File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers"}}
+[debug] [2022-12-26T23:58:48.189Z] File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers {"metadata":{"emulator":{"name":"functions"},"message":"File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers"}}
+[debug] [2022-12-26T23:58:48.332Z] File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers {"metadata":{"emulator":{"name":"functions"},"message":"File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers"}}
+[debug] [2022-12-26T23:58:48.433Z] File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers {"metadata":{"emulator":{"name":"functions"},"message":"File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers"}}
+[debug] [2022-12-26T23:58:48.533Z] File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers {"metadata":{"emulator":{"name":"functions"},"message":"File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers"}}
+[debug] [2022-12-26T23:58:48.635Z] File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers {"metadata":{"emulator":{"name":"functions"},"message":"File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers"}}
+[debug] [2022-12-26T23:58:49.208Z] File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers {"metadata":{"emulator":{"name":"functions"},"message":"File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers"}}
+[debug] [2022-12-26T23:58:49.320Z] File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers {"metadata":{"emulator":{"name":"functions"},"message":"File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers"}}
+[debug] [2022-12-26T23:58:49.420Z] File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers {"metadata":{"emulator":{"name":"functions"},"message":"File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers"}}
+[debug] [2022-12-26T23:58:49.521Z] File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers {"metadata":{"emulator":{"name":"functions"},"message":"File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers"}}
+[debug] [2022-12-26T23:58:49.674Z] File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers {"metadata":{"emulator":{"name":"functions"},"message":"File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers"}}
+[debug] [2022-12-26T23:58:49.775Z] File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers {"metadata":{"emulator":{"name":"functions"},"message":"File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers"}}
+[debug] [2022-12-26T23:58:49.875Z] File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers {"metadata":{"emulator":{"name":"functions"},"message":"File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers"}}
+[debug] [2022-12-26T23:58:50.883Z] Validating nodejs source
+[warn] ⚠  functions: package.json indicates an outdated version of firebase-functions. Please upgrade using npm install --save firebase-functions@latest in your functions directory. 
+[warn] ⚠  functions: Please note that there will be breaking changes when you upgrade. 
+[debug] [2022-12-26T23:58:51.980Z] > [functions] package.json contents: {
+  "name": "functions",
+  "description": "Cloud Functions for Firebase",
+  "scripts": {
+    "serve": "firebase emulators:start --only functions",
+    "shell": "firebase functions:shell",
+    "start": "npm run shell",
+    "deploy": "firebase deploy --only functions",
+    "logs": "firebase functions:log"
+  },
+  "engines": {
+    "node": "16"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "firebase-admin": "^10.0.2",
+    "firebase-functions": "^3.18.0",
+    "ethers": "^5.7.2",
+    "fs": "^0.0.1-security",
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.3.9",
+    "web3": "^1.8.1"
+  },
+  "devDependencies": {
+    "firebase-functions-test": "^0.2.0"
+  },
+  "private": true
+}
+[debug] [2022-12-26T23:58:51.980Z] Building nodejs source
+[debug] [2022-12-26T23:58:51.980Z] Analyzing nodejs backend spec
+[debug] [2022-12-26T23:58:51.981Z] Could not find functions.yaml. Must use http discovery
+[debug] [2022-12-26T23:58:52.089Z] Serving at port 9005
+
+[debug] [2022-12-26T23:58:52.332Z] Dec 26, 2022 5:58:52 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:58:52 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:58:52.476Z] Got response from /__/functions.yaml {"endpoints":{"addMessage":{"platform":"gcfv1","httpsTrigger":{},"entryPoint":"addMessage"},"makeUppercase":{"platform":"gcfv1","eventTrigger":{"eventType":"providers/cloud.firestore/eventTypes/document.create","eventFilters":{"resource":"projects/web3-atl-nfts/databases/(default)/documents/messages/{documentId}"},"retry":false},"labels":{},"entryPoint":"makeUppercase"},"addAddress":{"platform":"gcfv1","httpsTrigger":{},"entryPoint":"addAddress"},"generateHackerProof":{"platform":"gcfv1","httpsTrigger":{},"entryPoint":"generateHackerProof"},"generateGeneralProof":{"platform":"gcfv1","httpsTrigger":{},"entryPoint":"generateGeneralProof"},"generateTeamProof":{"platform":"gcfv1","httpsTrigger":{},"entryPoint":"generateTeamProof"},"generateSpeakerProof":{"platform":"gcfv1","httpsTrigger":{},"entryPoint":"generateSpeakerProof"},"generateProof":{"platform":"gcfv1","eventTrigger":{"eventType":"providers/cloud.firestore/eventTypes/document.create","eventFilters":{"resource":"projects/web3-atl-nfts/databases/(default)/documents/ProofForAddress/{documentId}"},"retry":false},"labels":{},"entryPoint":"generateProof"}},"specVersion":"v1alpha1","requiredAPIs":[]}
+[debug] [2022-12-26T23:58:52.491Z] shutdown requested via /__/quitquitquit
+
+[info] ✔  functions: Loaded functions definitions from source: addMessage, makeUppercase, addAddress, generateHackerProof, generateGeneralProof, generateTeamProof, generateSpeakerProof, generateProof. {"metadata":{"emulator":{"name":"functions"},"message":"Loaded functions definitions from source: addMessage, makeUppercase, addAddress, generateHackerProof, generateGeneralProof, generateTeamProof, generateSpeakerProof, generateProof."}}
+[debug] [2022-12-26T23:58:56.394Z] [work-queue] {"queueLength":1,"workRunningCount":0}
+[debug] [2022-12-26T23:58:56.394Z] [work-queue] {"queueLength":0,"workRunningCount":1}
+[debug] [2022-12-26T23:58:56.394Z] Accepted request GET /web3-atl-nfts/us-central1/addMessage?text=%270x4A54e0624A893915a767401413759f578C40ab3b%27 --> us-central1-addMessage
+[debug] [2022-12-26T23:58:56.400Z] [functions] Runtime ready! Sending request! {"metadata":{"emulator":{"name":"functions"},"message":"[functions] Runtime ready! Sending request!"}}
+[debug] [2022-12-26T23:58:56.401Z] [functions] Got req.url=/web3-atl-nfts/us-central1/addMessage?text=%270x4A54e0624A893915a767401413759f578C40ab3b%27, mapping to path=/?text=%270x4A54e0624A893915a767401413759f578C40ab3b%27 {"metadata":{"emulator":{"name":"functions"},"message":"[functions] Got req.url=/web3-atl-nfts/us-central1/addMessage?text=%270x4A54e0624A893915a767401413759f578C40ab3b%27, mapping to path=/?text=%270x4A54e0624A893915a767401413759f578C40ab3b%27"}}
+[debug] [2022-12-26T23:58:56.401Z] [worker-pool] Cleaned up workers for us-central1-generateHackerProof: 1 --> 0 {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] Cleaned up workers for us-central1-generateHackerProof: 1 --> 0"}}
+[debug] [2022-12-26T23:58:56.412Z] [worker-pool] addWorker(us-central1-addMessage) {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] addWorker(us-central1-addMessage)"}}
+[debug] [2022-12-26T23:58:56.413Z] [worker-pool] Adding worker with key us-central1-addMessage, total=1 {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] Adding worker with key us-central1-addMessage, total=1"}}
+[debug] [2022-12-26T23:58:57.056Z] [runtime-status] [52032] Resolved module firebase-admin {"declared":true,"installed":true,"version":"10.3.0","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-addMessage"},"extension":{},"message":"[runtime-status] [52032] Resolved module firebase-admin {\"declared\":true,\"installed\":true,\"version\":\"10.3.0\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js\"}"}}
+[debug] [2022-12-26T23:58:57.056Z] [runtime-status] [52032] Resolved module firebase-functions {"declared":true,"installed":true,"version":"3.24.1","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-addMessage"},"extension":{},"message":"[runtime-status] [52032] Resolved module firebase-functions {\"declared\":true,\"installed\":true,\"version\":\"3.24.1\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js\"}"}}
+[debug] [2022-12-26T23:58:57.057Z] [runtime-status] [52032] Outgoing network have been stubbed. [{"name":"http","status":"mocked"},{"name":"http","status":"mocked"},{"name":"https","status":"mocked"},{"name":"https","status":"mocked"},{"name":"net","status":"mocked"}] {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-addMessage"},"extension":{},"message":"[runtime-status] [52032] Outgoing network have been stubbed. [{\"name\":\"http\",\"status\":\"mocked\"},{\"name\":\"http\",\"status\":\"mocked\"},{\"name\":\"https\",\"status\":\"mocked\"},{\"name\":\"https\",\"status\":\"mocked\"},{\"name\":\"net\",\"status\":\"mocked\"}]"}}
+[debug] [2022-12-26T23:58:57.057Z] [runtime-status] [52032] Resolved module firebase-functions {"declared":true,"installed":true,"version":"3.24.1","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-addMessage"},"extension":{},"message":"[runtime-status] [52032] Resolved module firebase-functions {\"declared\":true,\"installed\":true,\"version\":\"3.24.1\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js\"}"}}
+[debug] [2022-12-26T23:58:57.075Z] [runtime-status] [52032] Checked functions.config() {"config":{}} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-addMessage"},"extension":{},"message":"[runtime-status] [52032] Checked functions.config() {\"config\":{}}"}}
+[debug] [2022-12-26T23:58:57.075Z] [runtime-status] [52032] firebase-functions has been stubbed. {"functionsResolution":{"declared":true,"installed":true,"version":"3.24.1","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js"}} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-addMessage"},"extension":{},"message":"[runtime-status] [52032] firebase-functions has been stubbed. {\"functionsResolution\":{\"declared\":true,\"installed\":true,\"version\":\"3.24.1\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js\"}}"}}
+[debug] [2022-12-26T23:58:57.076Z] [runtime-status] [52032] Resolved module firebase-functions {"declared":true,"installed":true,"version":"3.24.1","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-addMessage"},"extension":{},"message":"[runtime-status] [52032] Resolved module firebase-functions {\"declared\":true,\"installed\":true,\"version\":\"3.24.1\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js\"}"}}
+[debug] [2022-12-26T23:58:57.076Z] [runtime-status] [52032] Resolved module firebase-admin {"declared":true,"installed":true,"version":"10.3.0","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-addMessage"},"extension":{},"message":"[runtime-status] [52032] Resolved module firebase-admin {\"declared\":true,\"installed\":true,\"version\":\"10.3.0\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js\"}"}}
+[debug] [2022-12-26T23:58:57.076Z] [runtime-status] [52032] Resolved module firebase-functions {"declared":true,"installed":true,"version":"3.24.1","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-addMessage"},"extension":{},"message":"[runtime-status] [52032] Resolved module firebase-functions {\"declared\":true,\"installed\":true,\"version\":\"3.24.1\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js\"}"}}
+[debug] [2022-12-26T23:58:57.076Z] [runtime-status] [52032] firebase-admin has been stubbed. {"adminResolution":{"declared":true,"installed":true,"version":"10.3.0","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js"}} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-addMessage"},"extension":{},"message":"[runtime-status] [52032] firebase-admin has been stubbed. {\"adminResolution\":{\"declared\":true,\"installed\":true,\"version\":\"10.3.0\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js\"}}"}}
+[debug] [2022-12-26T23:58:57.304Z] [runtime-status] [52032] initializeApp(DEFAULT) {"storageBucket":"web3-atl-nfts.appspot.com","projectId":"web3-atl-nfts"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-addMessage"},"extension":{},"message":"[runtime-status] [52032] initializeApp(DEFAULT) {\"storageBucket\":\"web3-atl-nfts.appspot.com\",\"projectId\":\"web3-atl-nfts\"}"}}
+[debug] [2022-12-26T23:58:57.307Z] [runtime-status] [52032] Functions runtime initialized. {"cwd":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions","node_version":"16.15.1"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-addMessage"},"extension":{},"message":"[runtime-status] [52032] Functions runtime initialized. {\"cwd\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions\",\"node_version\":\"16.15.1\"}"}}
+[debug] [2022-12-26T23:58:57.308Z] [runtime-status] [52032] Listening to port: /var/folders/ts/d5qnrw196k7c1hybt81dzw2m0000gn/T/fire_emu_c98fc95664d2a324.sock {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-addMessage"},"extension":{},"message":"[runtime-status] [52032] Listening to port: /var/folders/ts/d5qnrw196k7c1hybt81dzw2m0000gn/T/fire_emu_c98fc95664d2a324.sock"}}
+[debug] [2022-12-26T23:58:57.329Z] [worker-us-central1-addMessage-1f58d95f-9212-407b-a325-1a60d838b0c3]: IDLE {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-addMessage-1f58d95f-9212-407b-a325-1a60d838b0c3]: IDLE"}}
+[debug] [2022-12-26T23:58:57.329Z] [worker-pool] submitRequest(triggerId=us-central1-addMessage) {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] submitRequest(triggerId=us-central1-addMessage)"}}
+[debug] [2022-12-26T23:58:57.329Z] [worker-us-central1-addMessage-1f58d95f-9212-407b-a325-1a60d838b0c3]: BUSY {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-addMessage-1f58d95f-9212-407b-a325-1a60d838b0c3]: BUSY"}}
+[info] i  functions: Beginning execution of "addMessage" {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-addMessage"},"extension":{},"message":"Beginning execution of \"addMessage\""}}
+[debug] [2022-12-26T23:58:57.495Z] Dec 26, 2022 5:58:57 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:58:57 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:58:57.564Z] [work-queue] {"queueLength":1,"workRunningCount":1}
+[debug] [2022-12-26T23:58:57.564Z] [work-queue] {"queueLength":0,"workRunningCount":2}
+[debug] [2022-12-26T23:58:57.564Z] Accepted request POST /functions/projects/web3-atl-nfts/triggers/us-central1-makeUppercase-0 --> us-central1-makeUppercase-0
+[debug] [2022-12-26T23:58:57.565Z] [functions] Runtime ready! Sending request! {"metadata":{"emulator":{"name":"functions"},"message":"[functions] Runtime ready! Sending request!"}}
+[debug] [2022-12-26T23:58:57.565Z] [functions] Got req.url=/functions/projects/web3-atl-nfts/triggers/us-central1-makeUppercase-0, mapping to path=/functions/projects/ {"metadata":{"emulator":{"name":"functions"},"message":"[functions] Got req.url=/functions/projects/web3-atl-nfts/triggers/us-central1-makeUppercase-0, mapping to path=/functions/projects/"}}
+[debug] [2022-12-26T23:58:57.571Z] [worker-pool] addWorker(us-central1-makeUppercase) {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] addWorker(us-central1-makeUppercase)"}}
+[debug] [2022-12-26T23:58:57.571Z] [worker-pool] Adding worker with key us-central1-makeUppercase, total=1 {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] Adding worker with key us-central1-makeUppercase, total=1"}}
+[debug] [2022-12-26T23:58:57.572Z] [worker-us-central1-addMessage-1f58d95f-9212-407b-a325-1a60d838b0c3]: IDLE {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-addMessage-1f58d95f-9212-407b-a325-1a60d838b0c3]: IDLE"}}
+[debug] [2022-12-26T23:58:57.572Z] [work-queue] {"queueLength":0,"workRunningCount":1}
+[info] i  functions: Finished "addMessage" in 234.166625ms {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-addMessage"},"extension":{},"message":"Finished \"addMessage\" in 234.166625ms"}}
+[debug] [2022-12-26T23:58:57.937Z] [runtime-status] [52033] Resolved module firebase-admin {"declared":true,"installed":true,"version":"10.3.0","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-makeUppercase"},"extension":{},"message":"[runtime-status] [52033] Resolved module firebase-admin {\"declared\":true,\"installed\":true,\"version\":\"10.3.0\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js\"}"}}
+[debug] [2022-12-26T23:58:57.937Z] [runtime-status] [52033] Resolved module firebase-functions {"declared":true,"installed":true,"version":"3.24.1","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-makeUppercase"},"extension":{},"message":"[runtime-status] [52033] Resolved module firebase-functions {\"declared\":true,\"installed\":true,\"version\":\"3.24.1\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js\"}"}}
+[debug] [2022-12-26T23:58:57.937Z] [runtime-status] [52033] Outgoing network have been stubbed. [{"name":"http","status":"mocked"},{"name":"http","status":"mocked"},{"name":"https","status":"mocked"},{"name":"https","status":"mocked"},{"name":"net","status":"mocked"}] {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-makeUppercase"},"extension":{},"message":"[runtime-status] [52033] Outgoing network have been stubbed. [{\"name\":\"http\",\"status\":\"mocked\"},{\"name\":\"http\",\"status\":\"mocked\"},{\"name\":\"https\",\"status\":\"mocked\"},{\"name\":\"https\",\"status\":\"mocked\"},{\"name\":\"net\",\"status\":\"mocked\"}]"}}
+[debug] [2022-12-26T23:58:57.938Z] [runtime-status] [52033] Resolved module firebase-functions {"declared":true,"installed":true,"version":"3.24.1","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-makeUppercase"},"extension":{},"message":"[runtime-status] [52033] Resolved module firebase-functions {\"declared\":true,\"installed\":true,\"version\":\"3.24.1\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js\"}"}}
+[debug] [2022-12-26T23:58:57.953Z] [runtime-status] [52033] Checked functions.config() {"config":{}} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-makeUppercase"},"extension":{},"message":"[runtime-status] [52033] Checked functions.config() {\"config\":{}}"}}
+[debug] [2022-12-26T23:58:57.953Z] [runtime-status] [52033] firebase-functions has been stubbed. {"functionsResolution":{"declared":true,"installed":true,"version":"3.24.1","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js"}} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-makeUppercase"},"extension":{},"message":"[runtime-status] [52033] firebase-functions has been stubbed. {\"functionsResolution\":{\"declared\":true,\"installed\":true,\"version\":\"3.24.1\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js\"}}"}}
+[debug] [2022-12-26T23:58:57.954Z] [runtime-status] [52033] Resolved module firebase-functions {"declared":true,"installed":true,"version":"3.24.1","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-makeUppercase"},"extension":{},"message":"[runtime-status] [52033] Resolved module firebase-functions {\"declared\":true,\"installed\":true,\"version\":\"3.24.1\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js\"}"}}
+[debug] [2022-12-26T23:58:57.954Z] [runtime-status] [52033] Resolved module firebase-admin {"declared":true,"installed":true,"version":"10.3.0","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-makeUppercase"},"extension":{},"message":"[runtime-status] [52033] Resolved module firebase-admin {\"declared\":true,\"installed\":true,\"version\":\"10.3.0\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js\"}"}}
+[debug] [2022-12-26T23:58:57.954Z] [runtime-status] [52033] Resolved module firebase-functions {"declared":true,"installed":true,"version":"3.24.1","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-makeUppercase"},"extension":{},"message":"[runtime-status] [52033] Resolved module firebase-functions {\"declared\":true,\"installed\":true,\"version\":\"3.24.1\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js\"}"}}
+[debug] [2022-12-26T23:58:57.954Z] [runtime-status] [52033] firebase-admin has been stubbed. {"adminResolution":{"declared":true,"installed":true,"version":"10.3.0","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js"}} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-makeUppercase"},"extension":{},"message":"[runtime-status] [52033] firebase-admin has been stubbed. {\"adminResolution\":{\"declared\":true,\"installed\":true,\"version\":\"10.3.0\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js\"}}"}}
+[debug] [2022-12-26T23:58:58.178Z] [runtime-status] [52033] initializeApp(DEFAULT) {"storageBucket":"web3-atl-nfts.appspot.com","projectId":"web3-atl-nfts"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-makeUppercase"},"extension":{},"message":"[runtime-status] [52033] initializeApp(DEFAULT) {\"storageBucket\":\"web3-atl-nfts.appspot.com\",\"projectId\":\"web3-atl-nfts\"}"}}
+[debug] [2022-12-26T23:58:58.181Z] [runtime-status] [52033] Functions runtime initialized. {"cwd":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions","node_version":"16.15.1"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-makeUppercase"},"extension":{},"message":"[runtime-status] [52033] Functions runtime initialized. {\"cwd\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions\",\"node_version\":\"16.15.1\"}"}}
+[debug] [2022-12-26T23:58:58.181Z] [runtime-status] [52033] Listening to port: /var/folders/ts/d5qnrw196k7c1hybt81dzw2m0000gn/T/fire_emu_f0bab5d7ef005b9e.sock {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-makeUppercase"},"extension":{},"message":"[runtime-status] [52033] Listening to port: /var/folders/ts/d5qnrw196k7c1hybt81dzw2m0000gn/T/fire_emu_f0bab5d7ef005b9e.sock"}}
+[debug] [2022-12-26T23:58:58.283Z] [worker-us-central1-makeUppercase-7408b410-0ad5-4d9f-adbc-4dc7a966c483]: IDLE {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-makeUppercase-7408b410-0ad5-4d9f-adbc-4dc7a966c483]: IDLE"}}
+[debug] [2022-12-26T23:58:58.283Z] [worker-pool] submitRequest(triggerId=us-central1-makeUppercase) {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] submitRequest(triggerId=us-central1-makeUppercase)"}}
+[debug] [2022-12-26T23:58:58.283Z] [worker-us-central1-makeUppercase-7408b410-0ad5-4d9f-adbc-4dc7a966c483]: BUSY {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-makeUppercase-7408b410-0ad5-4d9f-adbc-4dc7a966c483]: BUSY"}}
+[info] i  functions: Beginning execution of "makeUppercase" {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-makeUppercase"},"extension":{},"message":"Beginning execution of \"makeUppercase\""}}
+[debug] [2022-12-26T23:58:58.295Z] [runtime-status] [52033] ProcessBackground: lifting resource.name from resource {"name":"projects/web3-atl-nfts/databases/(default)/documents/messages/x7D9sYbvAxUNCxbheCvv","service":"firestore.googleapis.com"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-makeUppercase"},"extension":{},"message":"[runtime-status] [52033] ProcessBackground: lifting resource.name from resource {\"name\":\"projects/web3-atl-nfts/databases/(default)/documents/messages/x7D9sYbvAxUNCxbheCvv\",\"service\":\"firestore.googleapis.com\"}"}}
+[debug] [2022-12-26T23:58:58.296Z] [runtime-status] [52033] RunBackground {"data":{"value":{"name":"projects/web3-atl-nfts/databases/(default)/documents/messages/x7D9sYbvAxUNCxbheCvv","fields":{"original":{"stringValue":"'0x4A54e0624A893915a767401413759f578C40ab3b'"},"adding":{"stringValue":"'0x4A54e0624A893915a767401413759f578C40ab3b'"}},"createTime":"2022-12-26T23:58:57.526298Z","updateTime":"2022-12-26T23:58:57.526298Z"},"updateMask":{}},"context":{"eventId":"4c94b150-0932-422a-94a3-b33055e6a505","timestamp":"2022-12-26T23:58:57.526Z","eventType":"providers/cloud.firestore/eventTypes/document.create","resource":"projects/web3-atl-nfts/databases/(default)/documents/messages/x7D9sYbvAxUNCxbheCvv"}} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-makeUppercase"},"extension":{},"message":"[runtime-status] [52033] RunBackground {\"data\":{\"value\":{\"name\":\"projects/web3-atl-nfts/databases/(default)/documents/messages/x7D9sYbvAxUNCxbheCvv\",\"fields\":{\"original\":{\"stringValue\":\"'0x4A54e0624A893915a767401413759f578C40ab3b'\"},\"adding\":{\"stringValue\":\"'0x4A54e0624A893915a767401413759f578C40ab3b'\"}},\"createTime\":\"2022-12-26T23:58:57.526298Z\",\"updateTime\":\"2022-12-26T23:58:57.526298Z\"},\"updateMask\":{}},\"context\":{\"eventId\":\"4c94b150-0932-422a-94a3-b33055e6a505\",\"timestamp\":\"2022-12-26T23:58:57.526Z\",\"eventType\":\"providers/cloud.firestore/eventTypes/document.create\",\"resource\":\"projects/web3-atl-nfts/databases/(default)/documents/messages/x7D9sYbvAxUNCxbheCvv\"}}"}}
+[info] >  '0x4A54e0624A893915a767401413759f578C40ab3b' {"user":"'0x4A54e0624A893915a767401413759f578C40ab3b'","metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-makeUppercase"},"extension":{},"message":"\u001b[90m> \u001b[39m '0x4A54e0624A893915a767401413759f578C40ab3b'"}}
+[info] >  {"severity":"INFO","message":"Uppercasing x7D9sYbvAxUNCxbheCvv '0x4A54e0624A893915a767401413759f578C40ab3b'"} {"user":{"severity":"INFO","message":"Uppercasing x7D9sYbvAxUNCxbheCvv '0x4A54e0624A893915a767401413759f578C40ab3b'"},"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-makeUppercase"},"extension":{},"message":"\u001b[90m> \u001b[39m {\"severity\":\"INFO\",\"message\":\"Uppercasing x7D9sYbvAxUNCxbheCvv '0x4A54e0624A893915a767401413759f578C40ab3b'\"}"}}
+[debug] [2022-12-26T23:58:58.409Z] Dec 26, 2022 5:58:58 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:58:58 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:58:58.440Z] [worker-us-central1-makeUppercase-7408b410-0ad5-4d9f-adbc-4dc7a966c483]: IDLE {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-makeUppercase-7408b410-0ad5-4d9f-adbc-4dc7a966c483]: IDLE"}}
+[debug] [2022-12-26T23:58:58.440Z] [work-queue] {"queueLength":0,"workRunningCount":0}
+[info] i  functions: Finished "makeUppercase" in 144.432208ms {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-makeUppercase"},"extension":{},"message":"Finished \"makeUppercase\" in 144.432208ms"}}
+[debug] [2022-12-26T23:58:59.627Z] Dec 26, 2022 5:58:59 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:58:59 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:58:59.628Z] Dec 26, 2022 5:58:59 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:58:59 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:58:59.628Z] Dec 26, 2022 5:58:59 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:58:59 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:59:00.851Z] Dec 26, 2022 5:59:00 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:59:00 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:59:01.548Z] Dec 26, 2022 5:59:01 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:59:01 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:59:04.820Z] Dec 26, 2022 5:59:04 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:59:04 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:59:26.466Z] File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers {"metadata":{"emulator":{"name":"functions"},"message":"File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers"}}
+[debug] [2022-12-26T23:59:27.469Z] Validating nodejs source
+[warn] ⚠  functions: package.json indicates an outdated version of firebase-functions. Please upgrade using npm install --save firebase-functions@latest in your functions directory. 
+[warn] ⚠  functions: Please note that there will be breaking changes when you upgrade. 
+[debug] [2022-12-26T23:59:28.216Z] > [functions] package.json contents: {
+  "name": "functions",
+  "description": "Cloud Functions for Firebase",
+  "scripts": {
+    "serve": "firebase emulators:start --only functions",
+    "shell": "firebase functions:shell",
+    "start": "npm run shell",
+    "deploy": "firebase deploy --only functions",
+    "logs": "firebase functions:log"
+  },
+  "engines": {
+    "node": "16"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "firebase-admin": "^10.0.2",
+    "firebase-functions": "^3.18.0",
+    "ethers": "^5.7.2",
+    "fs": "^0.0.1-security",
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.3.9",
+    "web3": "^1.8.1"
+  },
+  "devDependencies": {
+    "firebase-functions-test": "^0.2.0"
+  },
+  "private": true
+}
+[debug] [2022-12-26T23:59:28.216Z] Building nodejs source
+[debug] [2022-12-26T23:59:28.216Z] Analyzing nodejs backend spec
+[debug] [2022-12-26T23:59:28.217Z] Could not find functions.yaml. Must use http discovery
+[debug] [2022-12-26T23:59:28.303Z] Serving at port 9005
+
+[debug] [2022-12-26T23:59:28.649Z] Got response from /__/functions.yaml {"endpoints":{"addMessage":{"platform":"gcfv1","httpsTrigger":{},"entryPoint":"addMessage"},"makeUppercase":{"platform":"gcfv1","eventTrigger":{"eventType":"providers/cloud.firestore/eventTypes/document.create","eventFilters":{"resource":"projects/web3-atl-nfts/databases/(default)/documents/messages/{documentId}"},"retry":false},"labels":{},"entryPoint":"makeUppercase"},"addAddress":{"platform":"gcfv1","httpsTrigger":{},"entryPoint":"addAddress"},"generateHackerProof":{"platform":"gcfv1","httpsTrigger":{},"entryPoint":"generateHackerProof"},"generateGeneralProof":{"platform":"gcfv1","httpsTrigger":{},"entryPoint":"generateGeneralProof"},"generateTeamProof":{"platform":"gcfv1","httpsTrigger":{},"entryPoint":"generateTeamProof"},"generateSpeakerProof":{"platform":"gcfv1","httpsTrigger":{},"entryPoint":"generateSpeakerProof"},"generateProof":{"platform":"gcfv1","eventTrigger":{"eventType":"providers/cloud.firestore/eventTypes/document.create","eventFilters":{"resource":"projects/web3-atl-nfts/databases/(default)/documents/ProofForAddress/{documentId}"},"retry":false},"labels":{},"entryPoint":"generateProof"}},"specVersion":"v1alpha1","requiredAPIs":[]}
+[debug] [2022-12-26T23:59:28.653Z] shutdown requested via /__/quitquitquit
+
+[info] ✔  functions: Loaded functions definitions from source: addMessage, makeUppercase, addAddress, generateHackerProof, generateGeneralProof, generateTeamProof, generateSpeakerProof, generateProof. {"metadata":{"emulator":{"name":"functions"},"message":"Loaded functions definitions from source: addMessage, makeUppercase, addAddress, generateHackerProof, generateGeneralProof, generateTeamProof, generateSpeakerProof, generateProof."}}
+[debug] [2022-12-26T23:59:28.657Z] [worker-pool] Shutting down IDLE worker (us-central1-addMessage) {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] Shutting down IDLE worker (us-central1-addMessage)"}}
+[debug] [2022-12-26T23:59:28.657Z] [worker-us-central1-addMessage-1f58d95f-9212-407b-a325-1a60d838b0c3]: FINISHING {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-addMessage-1f58d95f-9212-407b-a325-1a60d838b0c3]: FINISHING"}}
+[debug] [2022-12-26T23:59:28.657Z] [worker-pool] Shutting down IDLE worker (us-central1-makeUppercase) {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] Shutting down IDLE worker (us-central1-makeUppercase)"}}
+[debug] [2022-12-26T23:59:28.657Z] [worker-us-central1-makeUppercase-7408b410-0ad5-4d9f-adbc-4dc7a966c483]: FINISHING {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-makeUppercase-7408b410-0ad5-4d9f-adbc-4dc7a966c483]: FINISHING"}}
+[debug] [2022-12-26T23:59:28.662Z] [worker-us-central1-addMessage-1f58d95f-9212-407b-a325-1a60d838b0c3]: exited {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-addMessage-1f58d95f-9212-407b-a325-1a60d838b0c3]: exited"}}
+[debug] [2022-12-26T23:59:28.662Z] [worker-us-central1-addMessage-1f58d95f-9212-407b-a325-1a60d838b0c3]: FINISHED {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-addMessage-1f58d95f-9212-407b-a325-1a60d838b0c3]: FINISHED"}}
+[debug] [2022-12-26T23:59:28.662Z] [worker-us-central1-makeUppercase-7408b410-0ad5-4d9f-adbc-4dc7a966c483]: exited {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-makeUppercase-7408b410-0ad5-4d9f-adbc-4dc7a966c483]: exited"}}
+[debug] [2022-12-26T23:59:28.662Z] [worker-us-central1-makeUppercase-7408b410-0ad5-4d9f-adbc-4dc7a966c483]: FINISHED {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-makeUppercase-7408b410-0ad5-4d9f-adbc-4dc7a966c483]: FINISHED"}}
+[debug] [2022-12-26T23:59:28.989Z] File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers {"metadata":{"emulator":{"name":"functions"},"message":"File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers"}}
+[debug] [2022-12-26T23:59:29.090Z] File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers {"metadata":{"emulator":{"name":"functions"},"message":"File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers"}}
+[debug] [2022-12-26T23:59:29.191Z] File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers {"metadata":{"emulator":{"name":"functions"},"message":"File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers"}}
+[debug] [2022-12-26T23:59:30.195Z] Validating nodejs source
+[warn] ⚠  functions: package.json indicates an outdated version of firebase-functions. Please upgrade using npm install --save firebase-functions@latest in your functions directory. 
+[warn] ⚠  functions: Please note that there will be breaking changes when you upgrade. 
+[debug] [2022-12-26T23:59:30.846Z] > [functions] package.json contents: {
+  "name": "functions",
+  "description": "Cloud Functions for Firebase",
+  "scripts": {
+    "serve": "firebase emulators:start --only functions",
+    "shell": "firebase functions:shell",
+    "start": "npm run shell",
+    "deploy": "firebase deploy --only functions",
+    "logs": "firebase functions:log"
+  },
+  "engines": {
+    "node": "16"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "firebase-admin": "^10.0.2",
+    "firebase-functions": "^3.18.0",
+    "ethers": "^5.7.2",
+    "fs": "^0.0.1-security",
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.3.9",
+    "web3": "^1.8.1"
+  },
+  "devDependencies": {
+    "firebase-functions-test": "^0.2.0"
+  },
+  "private": true
+}
+[debug] [2022-12-26T23:59:30.846Z] Building nodejs source
+[debug] [2022-12-26T23:59:30.846Z] Analyzing nodejs backend spec
+[debug] [2022-12-26T23:59:30.847Z] Could not find functions.yaml. Must use http discovery
+[debug] [2022-12-26T23:59:30.922Z] Serving at port 9005
+
+[debug] [2022-12-26T23:59:31.174Z] Got response from /__/functions.yaml {"endpoints":{"addMessage":{"platform":"gcfv1","httpsTrigger":{},"entryPoint":"addMessage"},"makeUppercase":{"platform":"gcfv1","eventTrigger":{"eventType":"providers/cloud.firestore/eventTypes/document.create","eventFilters":{"resource":"projects/web3-atl-nfts/databases/(default)/documents/messages/{documentId}"},"retry":false},"labels":{},"entryPoint":"makeUppercase"},"addAddress":{"platform":"gcfv1","httpsTrigger":{},"entryPoint":"addAddress"},"generateHackerProof":{"platform":"gcfv1","httpsTrigger":{},"entryPoint":"generateHackerProof"},"generateGeneralProof":{"platform":"gcfv1","httpsTrigger":{},"entryPoint":"generateGeneralProof"},"generateTeamProof":{"platform":"gcfv1","httpsTrigger":{},"entryPoint":"generateTeamProof"},"generateSpeakerProof":{"platform":"gcfv1","httpsTrigger":{},"entryPoint":"generateSpeakerProof"},"generateProof":{"platform":"gcfv1","eventTrigger":{"eventType":"providers/cloud.firestore/eventTypes/document.create","eventFilters":{"resource":"projects/web3-atl-nfts/databases/(default)/documents/ProofForAddress/{documentId}"},"retry":false},"labels":{},"entryPoint":"generateProof"}},"specVersion":"v1alpha1","requiredAPIs":[]}
+[debug] [2022-12-26T23:59:31.176Z] shutdown requested via /__/quitquitquit
+
+[info] ✔  functions: Loaded functions definitions from source: addMessage, makeUppercase, addAddress, generateHackerProof, generateGeneralProof, generateTeamProof, generateSpeakerProof, generateProof. {"metadata":{"emulator":{"name":"functions"},"message":"Loaded functions definitions from source: addMessage, makeUppercase, addAddress, generateHackerProof, generateGeneralProof, generateTeamProof, generateSpeakerProof, generateProof."}}
+[debug] [2022-12-26T23:59:32.203Z] Dec 26, 2022 5:59:32 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:59:32 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:59:32.248Z] Dec 26, 2022 5:59:32 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:59:32 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:59:36.526Z] [work-queue] {"queueLength":1,"workRunningCount":0}
+[debug] [2022-12-26T23:59:36.526Z] [work-queue] {"queueLength":0,"workRunningCount":1}
+[debug] [2022-12-26T23:59:36.526Z] Accepted request GET /web3-atl-nfts/us-central1/addAddress?text=0x4A54e0624A893915a767401413759f578C40ab3b --> us-central1-addAddress
+[debug] [2022-12-26T23:59:36.531Z] [functions] Runtime ready! Sending request! {"metadata":{"emulator":{"name":"functions"},"message":"[functions] Runtime ready! Sending request!"}}
+[debug] [2022-12-26T23:59:36.531Z] [functions] Got req.url=/web3-atl-nfts/us-central1/addAddress?text=0x4A54e0624A893915a767401413759f578C40ab3b, mapping to path=/?text=0x4A54e0624A893915a767401413759f578C40ab3b {"metadata":{"emulator":{"name":"functions"},"message":"[functions] Got req.url=/web3-atl-nfts/us-central1/addAddress?text=0x4A54e0624A893915a767401413759f578C40ab3b, mapping to path=/?text=0x4A54e0624A893915a767401413759f578C40ab3b"}}
+[debug] [2022-12-26T23:59:36.531Z] [worker-pool] Cleaned up workers for us-central1-addMessage: 1 --> 0 {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] Cleaned up workers for us-central1-addMessage: 1 --> 0"}}
+[debug] [2022-12-26T23:59:36.532Z] [worker-pool] Cleaned up workers for us-central1-makeUppercase: 1 --> 0 {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] Cleaned up workers for us-central1-makeUppercase: 1 --> 0"}}
+[debug] [2022-12-26T23:59:36.541Z] [worker-pool] addWorker(us-central1-addAddress) {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] addWorker(us-central1-addAddress)"}}
+[debug] [2022-12-26T23:59:36.542Z] [worker-pool] Adding worker with key us-central1-addAddress, total=1 {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] Adding worker with key us-central1-addAddress, total=1"}}
+[debug] [2022-12-26T23:59:37.080Z] [runtime-status] [52107] Resolved module firebase-admin {"declared":true,"installed":true,"version":"10.3.0","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-addAddress"},"extension":{},"message":"[runtime-status] [52107] Resolved module firebase-admin {\"declared\":true,\"installed\":true,\"version\":\"10.3.0\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js\"}"}}
+[debug] [2022-12-26T23:59:37.080Z] [runtime-status] [52107] Resolved module firebase-functions {"declared":true,"installed":true,"version":"3.24.1","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-addAddress"},"extension":{},"message":"[runtime-status] [52107] Resolved module firebase-functions {\"declared\":true,\"installed\":true,\"version\":\"3.24.1\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js\"}"}}
+[debug] [2022-12-26T23:59:37.080Z] [runtime-status] [52107] Outgoing network have been stubbed. [{"name":"http","status":"mocked"},{"name":"http","status":"mocked"},{"name":"https","status":"mocked"},{"name":"https","status":"mocked"},{"name":"net","status":"mocked"}] {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-addAddress"},"extension":{},"message":"[runtime-status] [52107] Outgoing network have been stubbed. [{\"name\":\"http\",\"status\":\"mocked\"},{\"name\":\"http\",\"status\":\"mocked\"},{\"name\":\"https\",\"status\":\"mocked\"},{\"name\":\"https\",\"status\":\"mocked\"},{\"name\":\"net\",\"status\":\"mocked\"}]"}}
+[debug] [2022-12-26T23:59:37.081Z] [runtime-status] [52107] Resolved module firebase-functions {"declared":true,"installed":true,"version":"3.24.1","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-addAddress"},"extension":{},"message":"[runtime-status] [52107] Resolved module firebase-functions {\"declared\":true,\"installed\":true,\"version\":\"3.24.1\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js\"}"}}
+[debug] [2022-12-26T23:59:37.095Z] [runtime-status] [52107] Checked functions.config() {"config":{}} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-addAddress"},"extension":{},"message":"[runtime-status] [52107] Checked functions.config() {\"config\":{}}"}}
+[debug] [2022-12-26T23:59:37.095Z] [runtime-status] [52107] firebase-functions has been stubbed. {"functionsResolution":{"declared":true,"installed":true,"version":"3.24.1","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js"}} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-addAddress"},"extension":{},"message":"[runtime-status] [52107] firebase-functions has been stubbed. {\"functionsResolution\":{\"declared\":true,\"installed\":true,\"version\":\"3.24.1\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js\"}}"}}
+[debug] [2022-12-26T23:59:37.095Z] [runtime-status] [52107] Resolved module firebase-functions {"declared":true,"installed":true,"version":"3.24.1","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-addAddress"},"extension":{},"message":"[runtime-status] [52107] Resolved module firebase-functions {\"declared\":true,\"installed\":true,\"version\":\"3.24.1\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js\"}"}}
+[debug] [2022-12-26T23:59:37.096Z] [runtime-status] [52107] Resolved module firebase-admin {"declared":true,"installed":true,"version":"10.3.0","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-addAddress"},"extension":{},"message":"[runtime-status] [52107] Resolved module firebase-admin {\"declared\":true,\"installed\":true,\"version\":\"10.3.0\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js\"}"}}
+[debug] [2022-12-26T23:59:37.096Z] [runtime-status] [52107] Resolved module firebase-functions {"declared":true,"installed":true,"version":"3.24.1","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-addAddress"},"extension":{},"message":"[runtime-status] [52107] Resolved module firebase-functions {\"declared\":true,\"installed\":true,\"version\":\"3.24.1\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js\"}"}}
+[debug] [2022-12-26T23:59:37.096Z] [runtime-status] [52107] firebase-admin has been stubbed. {"adminResolution":{"declared":true,"installed":true,"version":"10.3.0","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js"}} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-addAddress"},"extension":{},"message":"[runtime-status] [52107] firebase-admin has been stubbed. {\"adminResolution\":{\"declared\":true,\"installed\":true,\"version\":\"10.3.0\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js\"}}"}}
+[debug] [2022-12-26T23:59:37.310Z] [runtime-status] [52107] initializeApp(DEFAULT) {"storageBucket":"web3-atl-nfts.appspot.com","projectId":"web3-atl-nfts"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-addAddress"},"extension":{},"message":"[runtime-status] [52107] initializeApp(DEFAULT) {\"storageBucket\":\"web3-atl-nfts.appspot.com\",\"projectId\":\"web3-atl-nfts\"}"}}
+[debug] [2022-12-26T23:59:37.313Z] [runtime-status] [52107] Functions runtime initialized. {"cwd":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions","node_version":"16.15.1"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-addAddress"},"extension":{},"message":"[runtime-status] [52107] Functions runtime initialized. {\"cwd\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions\",\"node_version\":\"16.15.1\"}"}}
+[debug] [2022-12-26T23:59:37.313Z] [runtime-status] [52107] Listening to port: /var/folders/ts/d5qnrw196k7c1hybt81dzw2m0000gn/T/fire_emu_035e6e55a082a175.sock {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-addAddress"},"extension":{},"message":"[runtime-status] [52107] Listening to port: /var/folders/ts/d5qnrw196k7c1hybt81dzw2m0000gn/T/fire_emu_035e6e55a082a175.sock"}}
+[debug] [2022-12-26T23:59:37.359Z] [worker-us-central1-addAddress-ca97c930-394f-40a1-8bc0-265a5683a6e9]: IDLE {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-addAddress-ca97c930-394f-40a1-8bc0-265a5683a6e9]: IDLE"}}
+[debug] [2022-12-26T23:59:37.359Z] [worker-pool] submitRequest(triggerId=us-central1-addAddress) {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] submitRequest(triggerId=us-central1-addAddress)"}}
+[debug] [2022-12-26T23:59:37.359Z] [worker-us-central1-addAddress-ca97c930-394f-40a1-8bc0-265a5683a6e9]: BUSY {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-addAddress-ca97c930-394f-40a1-8bc0-265a5683a6e9]: BUSY"}}
+[info] i  functions: Beginning execution of "addAddress" {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-addAddress"},"extension":{},"message":"Beginning execution of \"addAddress\""}}
+[debug] [2022-12-26T23:59:37.504Z] Dec 26, 2022 5:59:37 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:59:37 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:59:37.526Z] Dec 26, 2022 5:59:37 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:59:37 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:59:37.527Z] [work-queue] {"queueLength":1,"workRunningCount":1}
+[debug] [2022-12-26T23:59:37.527Z] [work-queue] {"queueLength":0,"workRunningCount":2}
+[debug] [2022-12-26T23:59:37.527Z] Accepted request POST /functions/projects/web3-atl-nfts/triggers/us-central1-generateProof-0 --> us-central1-generateProof-0
+[debug] [2022-12-26T23:59:37.528Z] [functions] Runtime ready! Sending request! {"metadata":{"emulator":{"name":"functions"},"message":"[functions] Runtime ready! Sending request!"}}
+[debug] [2022-12-26T23:59:37.528Z] [functions] Got req.url=/functions/projects/web3-atl-nfts/triggers/us-central1-generateProof-0, mapping to path=/functions/projects/ {"metadata":{"emulator":{"name":"functions"},"message":"[functions] Got req.url=/functions/projects/web3-atl-nfts/triggers/us-central1-generateProof-0, mapping to path=/functions/projects/"}}
+[debug] [2022-12-26T23:59:37.532Z] [worker-pool] addWorker(us-central1-generateProof) {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] addWorker(us-central1-generateProof)"}}
+[debug] [2022-12-26T23:59:37.532Z] [worker-pool] Adding worker with key us-central1-generateProof, total=1 {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] Adding worker with key us-central1-generateProof, total=1"}}
+[debug] [2022-12-26T23:59:37.533Z] [worker-us-central1-addAddress-ca97c930-394f-40a1-8bc0-265a5683a6e9]: IDLE {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-addAddress-ca97c930-394f-40a1-8bc0-265a5683a6e9]: IDLE"}}
+[debug] [2022-12-26T23:59:37.533Z] [work-queue] {"queueLength":0,"workRunningCount":1}
+[info] i  functions: Finished "addAddress" in 169.053709ms {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-addAddress"},"extension":{},"message":"Finished \"addAddress\" in 169.053709ms"}}
+[debug] [2022-12-26T23:59:37.848Z] [runtime-status] [52114] Resolved module firebase-admin {"declared":true,"installed":true,"version":"10.3.0","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"[runtime-status] [52114] Resolved module firebase-admin {\"declared\":true,\"installed\":true,\"version\":\"10.3.0\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js\"}"}}
+[debug] [2022-12-26T23:59:37.848Z] [runtime-status] [52114] Resolved module firebase-functions {"declared":true,"installed":true,"version":"3.24.1","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"[runtime-status] [52114] Resolved module firebase-functions {\"declared\":true,\"installed\":true,\"version\":\"3.24.1\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js\"}"}}
+[debug] [2022-12-26T23:59:37.849Z] [runtime-status] [52114] Outgoing network have been stubbed. [{"name":"http","status":"mocked"},{"name":"http","status":"mocked"},{"name":"https","status":"mocked"},{"name":"https","status":"mocked"},{"name":"net","status":"mocked"}] {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"[runtime-status] [52114] Outgoing network have been stubbed. [{\"name\":\"http\",\"status\":\"mocked\"},{\"name\":\"http\",\"status\":\"mocked\"},{\"name\":\"https\",\"status\":\"mocked\"},{\"name\":\"https\",\"status\":\"mocked\"},{\"name\":\"net\",\"status\":\"mocked\"}]"}}
+[debug] [2022-12-26T23:59:37.849Z] [runtime-status] [52114] Resolved module firebase-functions {"declared":true,"installed":true,"version":"3.24.1","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"[runtime-status] [52114] Resolved module firebase-functions {\"declared\":true,\"installed\":true,\"version\":\"3.24.1\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js\"}"}}
+[debug] [2022-12-26T23:59:37.864Z] [runtime-status] [52114] Checked functions.config() {"config":{}} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"[runtime-status] [52114] Checked functions.config() {\"config\":{}}"}}
+[debug] [2022-12-26T23:59:37.864Z] [runtime-status] [52114] firebase-functions has been stubbed. {"functionsResolution":{"declared":true,"installed":true,"version":"3.24.1","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js"}} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"[runtime-status] [52114] firebase-functions has been stubbed. {\"functionsResolution\":{\"declared\":true,\"installed\":true,\"version\":\"3.24.1\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js\"}}"}}
+[debug] [2022-12-26T23:59:37.864Z] [runtime-status] [52114] Resolved module firebase-functions {"declared":true,"installed":true,"version":"3.24.1","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"[runtime-status] [52114] Resolved module firebase-functions {\"declared\":true,\"installed\":true,\"version\":\"3.24.1\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js\"}"}}
+[debug] [2022-12-26T23:59:37.865Z] [runtime-status] [52114] Resolved module firebase-admin {"declared":true,"installed":true,"version":"10.3.0","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"[runtime-status] [52114] Resolved module firebase-admin {\"declared\":true,\"installed\":true,\"version\":\"10.3.0\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js\"}"}}
+[debug] [2022-12-26T23:59:37.865Z] [runtime-status] [52114] Resolved module firebase-functions {"declared":true,"installed":true,"version":"3.24.1","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"[runtime-status] [52114] Resolved module firebase-functions {\"declared\":true,\"installed\":true,\"version\":\"3.24.1\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js\"}"}}
+[debug] [2022-12-26T23:59:37.865Z] [runtime-status] [52114] firebase-admin has been stubbed. {"adminResolution":{"declared":true,"installed":true,"version":"10.3.0","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js"}} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"[runtime-status] [52114] firebase-admin has been stubbed. {\"adminResolution\":{\"declared\":true,\"installed\":true,\"version\":\"10.3.0\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js\"}}"}}
+[debug] [2022-12-26T23:59:38.072Z] [runtime-status] [52114] initializeApp(DEFAULT) {"storageBucket":"web3-atl-nfts.appspot.com","projectId":"web3-atl-nfts"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"[runtime-status] [52114] initializeApp(DEFAULT) {\"storageBucket\":\"web3-atl-nfts.appspot.com\",\"projectId\":\"web3-atl-nfts\"}"}}
+[debug] [2022-12-26T23:59:38.074Z] [runtime-status] [52114] Functions runtime initialized. {"cwd":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions","node_version":"16.15.1"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"[runtime-status] [52114] Functions runtime initialized. {\"cwd\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions\",\"node_version\":\"16.15.1\"}"}}
+[debug] [2022-12-26T23:59:38.075Z] [runtime-status] [52114] Listening to port: /var/folders/ts/d5qnrw196k7c1hybt81dzw2m0000gn/T/fire_emu_2c603503c1b2555a.sock {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"[runtime-status] [52114] Listening to port: /var/folders/ts/d5qnrw196k7c1hybt81dzw2m0000gn/T/fire_emu_2c603503c1b2555a.sock"}}
+[debug] [2022-12-26T23:59:38.143Z] [worker-us-central1-generateProof-2c5d15fc-1a3a-481a-9bb1-3285c978e2db]: IDLE {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-generateProof-2c5d15fc-1a3a-481a-9bb1-3285c978e2db]: IDLE"}}
+[debug] [2022-12-26T23:59:38.144Z] [worker-pool] submitRequest(triggerId=us-central1-generateProof) {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] submitRequest(triggerId=us-central1-generateProof)"}}
+[debug] [2022-12-26T23:59:38.144Z] [worker-us-central1-generateProof-2c5d15fc-1a3a-481a-9bb1-3285c978e2db]: BUSY {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-generateProof-2c5d15fc-1a3a-481a-9bb1-3285c978e2db]: BUSY"}}
+[info] i  functions: Beginning execution of "generateProof" {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"Beginning execution of \"generateProof\""}}
+[debug] [2022-12-26T23:59:38.152Z] [runtime-status] [52114] ProcessBackground: lifting resource.name from resource {"name":"projects/web3-atl-nfts/databases/(default)/documents/ProofForAddress/mcRPxrqFgjk8GGYrwrj4","service":"firestore.googleapis.com"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"[runtime-status] [52114] ProcessBackground: lifting resource.name from resource {\"name\":\"projects/web3-atl-nfts/databases/(default)/documents/ProofForAddress/mcRPxrqFgjk8GGYrwrj4\",\"service\":\"firestore.googleapis.com\"}"}}
+[debug] [2022-12-26T23:59:38.152Z] [runtime-status] [52114] RunBackground {"data":{"value":{"name":"projects/web3-atl-nfts/databases/(default)/documents/ProofForAddress/mcRPxrqFgjk8GGYrwrj4","fields":{"address_hash":{"stringValue":"0x4A54e0624A893915a767401413759f578C40ab3b"}},"createTime":"2022-12-26T23:59:37.511099Z","updateTime":"2022-12-26T23:59:37.511099Z"},"updateMask":{}},"context":{"eventId":"d9f9743a-8c9a-4e56-be59-bb1f3285c6a0","timestamp":"2022-12-26T23:59:37.511Z","eventType":"providers/cloud.firestore/eventTypes/document.create","resource":"projects/web3-atl-nfts/databases/(default)/documents/ProofForAddress/mcRPxrqFgjk8GGYrwrj4"}} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"[runtime-status] [52114] RunBackground {\"data\":{\"value\":{\"name\":\"projects/web3-atl-nfts/databases/(default)/documents/ProofForAddress/mcRPxrqFgjk8GGYrwrj4\",\"fields\":{\"address_hash\":{\"stringValue\":\"0x4A54e0624A893915a767401413759f578C40ab3b\"}},\"createTime\":\"2022-12-26T23:59:37.511099Z\",\"updateTime\":\"2022-12-26T23:59:37.511099Z\"},\"updateMask\":{}},\"context\":{\"eventId\":\"d9f9743a-8c9a-4e56-be59-bb1f3285c6a0\",\"timestamp\":\"2022-12-26T23:59:37.511Z\",\"eventType\":\"providers/cloud.firestore/eventTypes/document.create\",\"resource\":\"projects/web3-atl-nfts/databases/(default)/documents/ProofForAddress/mcRPxrqFgjk8GGYrwrj4\"}}"}}
+[info] >  0x4A54e0624A893915a767401413759f578C40ab3b {"user":"0x4A54e0624A893915a767401413759f578C40ab3b","metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"\u001b[90m> \u001b[39m 0x4A54e0624A893915a767401413759f578C40ab3b"}}
+[info] >  [ {"user":"[","metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"\u001b[90m> \u001b[39m ["}}
+[info] >    '0x7a4677bcead14c0dfa4d29a6bc4a4ad141730bf2068052deb465027cb2ef03b6', {"user":"  '0x7a4677bcead14c0dfa4d29a6bc4a4ad141730bf2068052deb465027cb2ef03b6',","metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"\u001b[90m> \u001b[39m   '0x7a4677bcead14c0dfa4d29a6bc4a4ad141730bf2068052deb465027cb2ef03b6',"}}
+[info] >    '0x48994dcc50533794205f1ed80dfac82390840bfc6b677afaa26b5dd2adeb3a86', {"user":"  '0x48994dcc50533794205f1ed80dfac82390840bfc6b677afaa26b5dd2adeb3a86',","metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"\u001b[90m> \u001b[39m   '0x48994dcc50533794205f1ed80dfac82390840bfc6b677afaa26b5dd2adeb3a86',"}}
+[info] >    '0x8de3a3556aaf8e8d2e2a492f1ac9542cc08d696bb76f23533e303e0d3676cc58', {"user":"  '0x8de3a3556aaf8e8d2e2a492f1ac9542cc08d696bb76f23533e303e0d3676cc58',","metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"\u001b[90m> \u001b[39m   '0x8de3a3556aaf8e8d2e2a492f1ac9542cc08d696bb76f23533e303e0d3676cc58',"}}
+[info] >    '0x9faf108ee44ab3192d33e88d234e700cb648e7fa44d3aad8d59471adab627b4e' {"user":"  '0x9faf108ee44ab3192d33e88d234e700cb648e7fa44d3aad8d59471adab627b4e'","metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"\u001b[90m> \u001b[39m   '0x9faf108ee44ab3192d33e88d234e700cb648e7fa44d3aad8d59471adab627b4e'"}}
+[info] >  ] {"user":"]","metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"\u001b[90m> \u001b[39m ]"}}
+[warn] ⚠  functions: ReferenceError: tree is not defined
+    at /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js:215:34
+    at cloudFunction (/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/cloud-functions.js:78:23)
+    at /usr/local/lib/node_modules/firebase-tools/lib/emulator/functionsEmulatorRuntime.js:516:16
+    at runFunction (/usr/local/lib/node_modules/firebase-tools/lib/emulator/functionsEmulatorRuntime.js:504:15)
+    at runBackground (/usr/local/lib/node_modules/firebase-tools/lib/emulator/functionsEmulatorRuntime.js:515:11)
+    at processBackground (/usr/local/lib/node_modules/firebase-tools/lib/emulator/functionsEmulatorRuntime.js:499:11)
+    at /usr/local/lib/node_modules/firebase-tools/lib/emulator/functionsEmulatorRuntime.js:690:27
+    at Layer.handle [as handle_request] (/usr/local/lib/node_modules/firebase-tools/node_modules/express/lib/router/layer.js:95:5)
+    at next (/usr/local/lib/node_modules/firebase-tools/node_modules/express/lib/router/route.js:137:13)
+    at next (/usr/local/lib/node_modules/firebase-tools/node_modules/express/lib/router/route.js:131:14)
+    at next (/usr/local/lib/node_modules/firebase-tools/node_modules/express/lib/router/route.js:131:14)
+    at next (/usr/local/lib/node_modules/firebase-tools/node_modules/express/lib/router/route.js:131:14)
+    at next (/usr/local/lib/node_modules/firebase-tools/node_modules/express/lib/router/route.js:131:14)
+    at next (/usr/local/lib/node_modules/firebase-tools/node_modules/express/lib/router/route.js:131:14)
+    at next (/usr/local/lib/node_modules/firebase-tools/node_modules/express/lib/router/route.js:131:14)
+    at next (/usr/local/lib/node_modules/firebase-tools/node_modules/express/lib/router/route.js:131:14) {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"ReferenceError: tree is not defined\n    at /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js:215:34\n    at cloudFunction (/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/cloud-functions.js:78:23)\n    at /usr/local/lib/node_modules/firebase-tools/lib/emulator/functionsEmulatorRuntime.js:516:16\n    at runFunction (/usr/local/lib/node_modules/firebase-tools/lib/emulator/functionsEmulatorRuntime.js:504:15)\n    at runBackground (/usr/local/lib/node_modules/firebase-tools/lib/emulator/functionsEmulatorRuntime.js:515:11)\n    at processBackground (/usr/local/lib/node_modules/firebase-tools/lib/emulator/functionsEmulatorRuntime.js:499:11)\n    at /usr/local/lib/node_modules/firebase-tools/lib/emulator/functionsEmulatorRuntime.js:690:27\n    at Layer.handle [as handle_request] (/usr/local/lib/node_modules/firebase-tools/node_modules/express/lib/router/layer.js:95:5)\n    at next (/usr/local/lib/node_modules/firebase-tools/node_modules/express/lib/router/route.js:137:13)\n    at next (/usr/local/lib/node_modules/firebase-tools/node_modules/express/lib/router/route.js:131:14)\n    at next (/usr/local/lib/node_modules/firebase-tools/node_modules/express/lib/router/route.js:131:14)\n    at next (/usr/local/lib/node_modules/firebase-tools/node_modules/express/lib/router/route.js:131:14)\n    at next (/usr/local/lib/node_modules/firebase-tools/node_modules/express/lib/router/route.js:131:14)\n    at next (/usr/local/lib/node_modules/firebase-tools/node_modules/express/lib/router/route.js:131:14)\n    at next (/usr/local/lib/node_modules/firebase-tools/node_modules/express/lib/router/route.js:131:14)\n    at next (/usr/local/lib/node_modules/firebase-tools/node_modules/express/lib/router/route.js:131:14)"}}
+[warn] ⚠  Your function was killed because it raised an unhandled error. {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"Your function was killed because it raised an unhandled error."}}
+[info] i  functions: Finished "generateProof" in 20.481ms {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"Finished \"generateProof\" in 20.481ms"}}
+[debug] [2022-12-26T23:59:38.173Z] [worker-us-central1-generateProof-2c5d15fc-1a3a-481a-9bb1-3285c978e2db]: IDLE {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-generateProof-2c5d15fc-1a3a-481a-9bb1-3285c978e2db]: IDLE"}}
+[debug] [2022-12-26T23:59:38.173Z] [work-queue] {"queueLength":0,"workRunningCount":0}
+[debug] [2022-12-26T23:59:38.175Z] [worker-us-central1-generateProof-2c5d15fc-1a3a-481a-9bb1-3285c978e2db]: exited {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-generateProof-2c5d15fc-1a3a-481a-9bb1-3285c978e2db]: exited"}}
+[debug] [2022-12-26T23:59:38.175Z] [worker-us-central1-generateProof-2c5d15fc-1a3a-481a-9bb1-3285c978e2db]: FINISHED {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-generateProof-2c5d15fc-1a3a-481a-9bb1-3285c978e2db]: FINISHED"}}
+[debug] [2022-12-26T23:59:38.176Z] Dec 26, 2022 5:59:38 PM com.google.cloud.datastore.emulator.impl.events.FunctionsEmulatorEventPublisher sendHttpRequest
+WARNING: Unsuccessful HTTP response when publishing event for projects/web3-atl-nfts/triggers/us-central1-generateProof-0: 500 Internal Server Error
+tree is not defined
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:59:38 PM com.google.cloud.datastore.emulator.impl.events.FunctionsEmulatorEventPublisher sendHttpRequest\nWARNING: Unsuccessful HTTP response when publishing event for projects/web3-atl-nfts/triggers/us-central1-generateProof-0: 500 Internal Server Error\ntree is not defined\n"}}
+[debug] [2022-12-26T23:59:38.437Z] [work-queue] {"queueLength":1,"workRunningCount":0}
+[debug] [2022-12-26T23:59:38.437Z] [work-queue] {"queueLength":0,"workRunningCount":1}
+[debug] [2022-12-26T23:59:38.437Z] Accepted request GET /web3-atl-nfts/us-central1/addAddress?text=0x4A54e0624A893915a767401413759f578C40ab3b --> us-central1-addAddress
+[debug] [2022-12-26T23:59:38.445Z] [functions] Runtime ready! Sending request! {"metadata":{"emulator":{"name":"functions"},"message":"[functions] Runtime ready! Sending request!"}}
+[debug] [2022-12-26T23:59:38.447Z] [functions] Got req.url=/web3-atl-nfts/us-central1/addAddress?text=0x4A54e0624A893915a767401413759f578C40ab3b, mapping to path=/?text=0x4A54e0624A893915a767401413759f578C40ab3b {"metadata":{"emulator":{"name":"functions"},"message":"[functions] Got req.url=/web3-atl-nfts/us-central1/addAddress?text=0x4A54e0624A893915a767401413759f578C40ab3b, mapping to path=/?text=0x4A54e0624A893915a767401413759f578C40ab3b"}}
+[debug] [2022-12-26T23:59:38.448Z] [worker-pool] Cleaned up workers for us-central1-generateProof: 1 --> 0 {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] Cleaned up workers for us-central1-generateProof: 1 --> 0"}}
+[debug] [2022-12-26T23:59:38.448Z] [worker-pool] submitRequest(triggerId=us-central1-addAddress) {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] submitRequest(triggerId=us-central1-addAddress)"}}
+[debug] [2022-12-26T23:59:38.448Z] [worker-us-central1-addAddress-ca97c930-394f-40a1-8bc0-265a5683a6e9]: BUSY {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-addAddress-ca97c930-394f-40a1-8bc0-265a5683a6e9]: BUSY"}}
+[info] i  functions: Beginning execution of "addAddress" {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-addAddress"},"extension":{},"message":"Beginning execution of \"addAddress\""}}
+[debug] [2022-12-26T23:59:38.482Z] [worker-us-central1-addAddress-ca97c930-394f-40a1-8bc0-265a5683a6e9]: IDLE {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-addAddress-ca97c930-394f-40a1-8bc0-265a5683a6e9]: IDLE"}}
+[debug] [2022-12-26T23:59:38.482Z] [work-queue] {"queueLength":0,"workRunningCount":0}
+[info] i  functions: Finished "addAddress" in 25.7355ms {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-addAddress"},"extension":{},"message":"Finished \"addAddress\" in 25.7355ms"}}
+[debug] [2022-12-26T23:59:38.484Z] [work-queue] {"queueLength":1,"workRunningCount":0}
+[debug] [2022-12-26T23:59:38.484Z] [work-queue] {"queueLength":0,"workRunningCount":1}
+[debug] [2022-12-26T23:59:38.484Z] Accepted request POST /functions/projects/web3-atl-nfts/triggers/us-central1-generateProof-0 --> us-central1-generateProof-0
+[debug] [2022-12-26T23:59:38.485Z] [functions] Runtime ready! Sending request! {"metadata":{"emulator":{"name":"functions"},"message":"[functions] Runtime ready! Sending request!"}}
+[debug] [2022-12-26T23:59:38.485Z] [functions] Got req.url=/functions/projects/web3-atl-nfts/triggers/us-central1-generateProof-0, mapping to path=/functions/projects/ {"metadata":{"emulator":{"name":"functions"},"message":"[functions] Got req.url=/functions/projects/web3-atl-nfts/triggers/us-central1-generateProof-0, mapping to path=/functions/projects/"}}
+[debug] [2022-12-26T23:59:38.489Z] [worker-pool] addWorker(us-central1-generateProof) {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] addWorker(us-central1-generateProof)"}}
+[debug] [2022-12-26T23:59:38.489Z] [worker-pool] Adding worker with key us-central1-generateProof, total=1 {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] Adding worker with key us-central1-generateProof, total=1"}}
+[debug] [2022-12-26T23:59:38.795Z] [runtime-status] [52115] Resolved module firebase-admin {"declared":true,"installed":true,"version":"10.3.0","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"[runtime-status] [52115] Resolved module firebase-admin {\"declared\":true,\"installed\":true,\"version\":\"10.3.0\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js\"}"}}
+[debug] [2022-12-26T23:59:38.796Z] [runtime-status] [52115] Resolved module firebase-functions {"declared":true,"installed":true,"version":"3.24.1","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"[runtime-status] [52115] Resolved module firebase-functions {\"declared\":true,\"installed\":true,\"version\":\"3.24.1\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js\"}"}}
+[debug] [2022-12-26T23:59:38.796Z] [runtime-status] [52115] Outgoing network have been stubbed. [{"name":"http","status":"mocked"},{"name":"http","status":"mocked"},{"name":"https","status":"mocked"},{"name":"https","status":"mocked"},{"name":"net","status":"mocked"}] {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"[runtime-status] [52115] Outgoing network have been stubbed. [{\"name\":\"http\",\"status\":\"mocked\"},{\"name\":\"http\",\"status\":\"mocked\"},{\"name\":\"https\",\"status\":\"mocked\"},{\"name\":\"https\",\"status\":\"mocked\"},{\"name\":\"net\",\"status\":\"mocked\"}]"}}
+[debug] [2022-12-26T23:59:38.796Z] [runtime-status] [52115] Resolved module firebase-functions {"declared":true,"installed":true,"version":"3.24.1","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"[runtime-status] [52115] Resolved module firebase-functions {\"declared\":true,\"installed\":true,\"version\":\"3.24.1\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js\"}"}}
+[debug] [2022-12-26T23:59:38.811Z] [runtime-status] [52115] Checked functions.config() {"config":{}} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"[runtime-status] [52115] Checked functions.config() {\"config\":{}}"}}
+[debug] [2022-12-26T23:59:38.811Z] [runtime-status] [52115] firebase-functions has been stubbed. {"functionsResolution":{"declared":true,"installed":true,"version":"3.24.1","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js"}} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"[runtime-status] [52115] firebase-functions has been stubbed. {\"functionsResolution\":{\"declared\":true,\"installed\":true,\"version\":\"3.24.1\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js\"}}"}}
+[debug] [2022-12-26T23:59:38.811Z] [runtime-status] [52115] Resolved module firebase-functions {"declared":true,"installed":true,"version":"3.24.1","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"[runtime-status] [52115] Resolved module firebase-functions {\"declared\":true,\"installed\":true,\"version\":\"3.24.1\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js\"}"}}
+[debug] [2022-12-26T23:59:38.811Z] [runtime-status] [52115] Resolved module firebase-admin {"declared":true,"installed":true,"version":"10.3.0","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"[runtime-status] [52115] Resolved module firebase-admin {\"declared\":true,\"installed\":true,\"version\":\"10.3.0\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js\"}"}}
+[debug] [2022-12-26T23:59:38.811Z] [runtime-status] [52115] Resolved module firebase-functions {"declared":true,"installed":true,"version":"3.24.1","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"[runtime-status] [52115] Resolved module firebase-functions {\"declared\":true,\"installed\":true,\"version\":\"3.24.1\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js\"}"}}
+[debug] [2022-12-26T23:59:38.811Z] [runtime-status] [52115] firebase-admin has been stubbed. {"adminResolution":{"declared":true,"installed":true,"version":"10.3.0","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js"}} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"[runtime-status] [52115] firebase-admin has been stubbed. {\"adminResolution\":{\"declared\":true,\"installed\":true,\"version\":\"10.3.0\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js\"}}"}}
+[debug] [2022-12-26T23:59:39.043Z] [runtime-status] [52115] initializeApp(DEFAULT) {"storageBucket":"web3-atl-nfts.appspot.com","projectId":"web3-atl-nfts"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"[runtime-status] [52115] initializeApp(DEFAULT) {\"storageBucket\":\"web3-atl-nfts.appspot.com\",\"projectId\":\"web3-atl-nfts\"}"}}
+[debug] [2022-12-26T23:59:39.046Z] [runtime-status] [52115] Functions runtime initialized. {"cwd":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions","node_version":"16.15.1"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"[runtime-status] [52115] Functions runtime initialized. {\"cwd\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions\",\"node_version\":\"16.15.1\"}"}}
+[debug] [2022-12-26T23:59:39.047Z] [runtime-status] [52115] Listening to port: /var/folders/ts/d5qnrw196k7c1hybt81dzw2m0000gn/T/fire_emu_b9536eb88b4b841e.sock {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"[runtime-status] [52115] Listening to port: /var/folders/ts/d5qnrw196k7c1hybt81dzw2m0000gn/T/fire_emu_b9536eb88b4b841e.sock"}}
+[debug] [2022-12-26T23:59:39.101Z] [worker-us-central1-generateProof-39010810-3165-40cf-a6f3-b36e628885cb]: IDLE {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-generateProof-39010810-3165-40cf-a6f3-b36e628885cb]: IDLE"}}
+[debug] [2022-12-26T23:59:39.101Z] [worker-pool] submitRequest(triggerId=us-central1-generateProof) {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] submitRequest(triggerId=us-central1-generateProof)"}}
+[debug] [2022-12-26T23:59:39.101Z] [worker-us-central1-generateProof-39010810-3165-40cf-a6f3-b36e628885cb]: BUSY {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-generateProof-39010810-3165-40cf-a6f3-b36e628885cb]: BUSY"}}
+[info] i  functions: Beginning execution of "generateProof" {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"Beginning execution of \"generateProof\""}}
+[debug] [2022-12-26T23:59:39.107Z] [runtime-status] [52115] ProcessBackground: lifting resource.name from resource {"name":"projects/web3-atl-nfts/databases/(default)/documents/ProofForAddress/mI8uEDVi0LeAqhm4g7sZ","service":"firestore.googleapis.com"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"[runtime-status] [52115] ProcessBackground: lifting resource.name from resource {\"name\":\"projects/web3-atl-nfts/databases/(default)/documents/ProofForAddress/mI8uEDVi0LeAqhm4g7sZ\",\"service\":\"firestore.googleapis.com\"}"}}
+[debug] [2022-12-26T23:59:39.107Z] [runtime-status] [52115] RunBackground {"data":{"value":{"name":"projects/web3-atl-nfts/databases/(default)/documents/ProofForAddress/mI8uEDVi0LeAqhm4g7sZ","fields":{"address_hash":{"stringValue":"0x4A54e0624A893915a767401413759f578C40ab3b"}},"createTime":"2022-12-26T23:59:38.472459Z","updateTime":"2022-12-26T23:59:38.472459Z"},"updateMask":{}},"context":{"eventId":"d997bff1-d67a-44a2-b51c-1f79054e4cd1","timestamp":"2022-12-26T23:59:38.472Z","eventType":"providers/cloud.firestore/eventTypes/document.create","resource":"projects/web3-atl-nfts/databases/(default)/documents/ProofForAddress/mI8uEDVi0LeAqhm4g7sZ"}} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"[runtime-status] [52115] RunBackground {\"data\":{\"value\":{\"name\":\"projects/web3-atl-nfts/databases/(default)/documents/ProofForAddress/mI8uEDVi0LeAqhm4g7sZ\",\"fields\":{\"address_hash\":{\"stringValue\":\"0x4A54e0624A893915a767401413759f578C40ab3b\"}},\"createTime\":\"2022-12-26T23:59:38.472459Z\",\"updateTime\":\"2022-12-26T23:59:38.472459Z\"},\"updateMask\":{}},\"context\":{\"eventId\":\"d997bff1-d67a-44a2-b51c-1f79054e4cd1\",\"timestamp\":\"2022-12-26T23:59:38.472Z\",\"eventType\":\"providers/cloud.firestore/eventTypes/document.create\",\"resource\":\"projects/web3-atl-nfts/databases/(default)/documents/ProofForAddress/mI8uEDVi0LeAqhm4g7sZ\"}}"}}
+[info] >  0x4A54e0624A893915a767401413759f578C40ab3b {"user":"0x4A54e0624A893915a767401413759f578C40ab3b","metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"\u001b[90m> \u001b[39m 0x4A54e0624A893915a767401413759f578C40ab3b"}}
+[info] >  [ {"user":"[","metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"\u001b[90m> \u001b[39m ["}}
+[info] >    '0x7a4677bcead14c0dfa4d29a6bc4a4ad141730bf2068052deb465027cb2ef03b6', {"user":"  '0x7a4677bcead14c0dfa4d29a6bc4a4ad141730bf2068052deb465027cb2ef03b6',","metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"\u001b[90m> \u001b[39m   '0x7a4677bcead14c0dfa4d29a6bc4a4ad141730bf2068052deb465027cb2ef03b6',"}}
+[info] >    '0x48994dcc50533794205f1ed80dfac82390840bfc6b677afaa26b5dd2adeb3a86', {"user":"  '0x48994dcc50533794205f1ed80dfac82390840bfc6b677afaa26b5dd2adeb3a86',","metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"\u001b[90m> \u001b[39m   '0x48994dcc50533794205f1ed80dfac82390840bfc6b677afaa26b5dd2adeb3a86',"}}
+[info] >    '0x8de3a3556aaf8e8d2e2a492f1ac9542cc08d696bb76f23533e303e0d3676cc58', {"user":"  '0x8de3a3556aaf8e8d2e2a492f1ac9542cc08d696bb76f23533e303e0d3676cc58',","metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"\u001b[90m> \u001b[39m   '0x8de3a3556aaf8e8d2e2a492f1ac9542cc08d696bb76f23533e303e0d3676cc58',"}}
+[info] >    '0x9faf108ee44ab3192d33e88d234e700cb648e7fa44d3aad8d59471adab627b4e' {"user":"  '0x9faf108ee44ab3192d33e88d234e700cb648e7fa44d3aad8d59471adab627b4e'","metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"\u001b[90m> \u001b[39m   '0x9faf108ee44ab3192d33e88d234e700cb648e7fa44d3aad8d59471adab627b4e'"}}
+[info] >  ] {"user":"]","metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"\u001b[90m> \u001b[39m ]"}}
+[warn] ⚠  functions: ReferenceError: tree is not defined
+    at /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js:215:34
+    at cloudFunction (/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/cloud-functions.js:78:23)
+    at /usr/local/lib/node_modules/firebase-tools/lib/emulator/functionsEmulatorRuntime.js:516:16
+    at runFunction (/usr/local/lib/node_modules/firebase-tools/lib/emulator/functionsEmulatorRuntime.js:504:15)
+    at runBackground (/usr/local/lib/node_modules/firebase-tools/lib/emulator/functionsEmulatorRuntime.js:515:11)
+    at processBackground (/usr/local/lib/node_modules/firebase-tools/lib/emulator/functionsEmulatorRuntime.js:499:11)
+    at /usr/local/lib/node_modules/firebase-tools/lib/emulator/functionsEmulatorRuntime.js:690:27
+    at Layer.handle [as handle_request] (/usr/local/lib/node_modules/firebase-tools/node_modules/express/lib/router/layer.js:95:5)
+    at next (/usr/local/lib/node_modules/firebase-tools/node_modules/express/lib/router/route.js:137:13)
+    at next (/usr/local/lib/node_modules/firebase-tools/node_modules/express/lib/router/route.js:131:14)
+    at next (/usr/local/lib/node_modules/firebase-tools/node_modules/express/lib/router/route.js:131:14)
+    at next (/usr/local/lib/node_modules/firebase-tools/node_modules/express/lib/router/route.js:131:14)
+    at next (/usr/local/lib/node_modules/firebase-tools/node_modules/express/lib/router/route.js:131:14)
+    at next (/usr/local/lib/node_modules/firebase-tools/node_modules/express/lib/router/route.js:131:14)
+    at next (/usr/local/lib/node_modules/firebase-tools/node_modules/express/lib/router/route.js:131:14)
+    at next (/usr/local/lib/node_modules/firebase-tools/node_modules/express/lib/router/route.js:131:14) {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"ReferenceError: tree is not defined\n    at /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js:215:34\n    at cloudFunction (/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/cloud-functions.js:78:23)\n    at /usr/local/lib/node_modules/firebase-tools/lib/emulator/functionsEmulatorRuntime.js:516:16\n    at runFunction (/usr/local/lib/node_modules/firebase-tools/lib/emulator/functionsEmulatorRuntime.js:504:15)\n    at runBackground (/usr/local/lib/node_modules/firebase-tools/lib/emulator/functionsEmulatorRuntime.js:515:11)\n    at processBackground (/usr/local/lib/node_modules/firebase-tools/lib/emulator/functionsEmulatorRuntime.js:499:11)\n    at /usr/local/lib/node_modules/firebase-tools/lib/emulator/functionsEmulatorRuntime.js:690:27\n    at Layer.handle [as handle_request] (/usr/local/lib/node_modules/firebase-tools/node_modules/express/lib/router/layer.js:95:5)\n    at next (/usr/local/lib/node_modules/firebase-tools/node_modules/express/lib/router/route.js:137:13)\n    at next (/usr/local/lib/node_modules/firebase-tools/node_modules/express/lib/router/route.js:131:14)\n    at next (/usr/local/lib/node_modules/firebase-tools/node_modules/express/lib/router/route.js:131:14)\n    at next (/usr/local/lib/node_modules/firebase-tools/node_modules/express/lib/router/route.js:131:14)\n    at next (/usr/local/lib/node_modules/firebase-tools/node_modules/express/lib/router/route.js:131:14)\n    at next (/usr/local/lib/node_modules/firebase-tools/node_modules/express/lib/router/route.js:131:14)\n    at next (/usr/local/lib/node_modules/firebase-tools/node_modules/express/lib/router/route.js:131:14)\n    at next (/usr/local/lib/node_modules/firebase-tools/node_modules/express/lib/router/route.js:131:14)"}}
+[warn] ⚠  Your function was killed because it raised an unhandled error. {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateProof"},"extension":{},"message":"Your function was killed because it raised an unhandled error."}}
+[debug] [2022-12-26T23:59:39.130Z] [work-queue] {"queueLength":0,"workRunningCount":0}
+[debug] [2022-12-26T23:59:39.130Z] [worker-us-central1-generateProof-39010810-3165-40cf-a6f3-b36e628885cb]: exited {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-generateProof-39010810-3165-40cf-a6f3-b36e628885cb]: exited"}}
+[debug] [2022-12-26T23:59:39.130Z] [worker-us-central1-generateProof-39010810-3165-40cf-a6f3-b36e628885cb]: FINISHED {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-generateProof-39010810-3165-40cf-a6f3-b36e628885cb]: FINISHED"}}
+[debug] [2022-12-26T23:59:39.132Z] Dec 26, 2022 5:59:39 PM com.google.cloud.datastore.emulator.impl.events.FunctionsEmulatorEventPublisher sendHttpRequest
+WARNING: Unsuccessful HTTP response when publishing event for projects/web3-atl-nfts/triggers/us-central1-generateProof-0: 500 Internal Server Error
+{"code":"ECONNRESET"}
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:59:39 PM com.google.cloud.datastore.emulator.impl.events.FunctionsEmulatorEventPublisher sendHttpRequest\nWARNING: Unsuccessful HTTP response when publishing event for projects/web3-atl-nfts/triggers/us-central1-generateProof-0: 500 Internal Server Error\n{\"code\":\"ECONNRESET\"}\n"}}
+[debug] [2022-12-26T23:59:40.084Z] Dec 26, 2022 5:59:40 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:59:40 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:59:41.044Z] Dec 26, 2022 5:59:41 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:59:41 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:59:48.679Z] [work-queue] {"queueLength":1,"workRunningCount":0}
+[debug] [2022-12-26T23:59:48.679Z] [work-queue] {"queueLength":0,"workRunningCount":1}
+[debug] [2022-12-26T23:59:48.679Z] Accepted request GET /web3-atl-nfts/us-central1/generateHackerProof?text=0x4A54e0624A893915a767401413759f578C40ab3b --> us-central1-generateHackerProof
+[debug] [2022-12-26T23:59:48.684Z] [functions] Runtime ready! Sending request! {"metadata":{"emulator":{"name":"functions"},"message":"[functions] Runtime ready! Sending request!"}}
+[debug] [2022-12-26T23:59:48.684Z] [functions] Got req.url=/web3-atl-nfts/us-central1/generateHackerProof?text=0x4A54e0624A893915a767401413759f578C40ab3b, mapping to path=/?text=0x4A54e0624A893915a767401413759f578C40ab3b {"metadata":{"emulator":{"name":"functions"},"message":"[functions] Got req.url=/web3-atl-nfts/us-central1/generateHackerProof?text=0x4A54e0624A893915a767401413759f578C40ab3b, mapping to path=/?text=0x4A54e0624A893915a767401413759f578C40ab3b"}}
+[debug] [2022-12-26T23:59:48.684Z] [worker-pool] Cleaned up workers for us-central1-generateProof: 1 --> 0 {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] Cleaned up workers for us-central1-generateProof: 1 --> 0"}}
+[debug] [2022-12-26T23:59:48.700Z] [worker-pool] addWorker(us-central1-generateHackerProof) {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] addWorker(us-central1-generateHackerProof)"}}
+[debug] [2022-12-26T23:59:48.701Z] [worker-pool] Adding worker with key us-central1-generateHackerProof, total=1 {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] Adding worker with key us-central1-generateHackerProof, total=1"}}
+[debug] [2022-12-26T23:59:49.166Z] [runtime-status] [52138] Resolved module firebase-admin {"declared":true,"installed":true,"version":"10.3.0","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"[runtime-status] [52138] Resolved module firebase-admin {\"declared\":true,\"installed\":true,\"version\":\"10.3.0\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js\"}"}}
+[debug] [2022-12-26T23:59:49.166Z] [runtime-status] [52138] Resolved module firebase-functions {"declared":true,"installed":true,"version":"3.24.1","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"[runtime-status] [52138] Resolved module firebase-functions {\"declared\":true,\"installed\":true,\"version\":\"3.24.1\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js\"}"}}
+[debug] [2022-12-26T23:59:49.166Z] [runtime-status] [52138] Outgoing network have been stubbed. [{"name":"http","status":"mocked"},{"name":"http","status":"mocked"},{"name":"https","status":"mocked"},{"name":"https","status":"mocked"},{"name":"net","status":"mocked"}] {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"[runtime-status] [52138] Outgoing network have been stubbed. [{\"name\":\"http\",\"status\":\"mocked\"},{\"name\":\"http\",\"status\":\"mocked\"},{\"name\":\"https\",\"status\":\"mocked\"},{\"name\":\"https\",\"status\":\"mocked\"},{\"name\":\"net\",\"status\":\"mocked\"}]"}}
+[debug] [2022-12-26T23:59:49.167Z] [runtime-status] [52138] Resolved module firebase-functions {"declared":true,"installed":true,"version":"3.24.1","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"[runtime-status] [52138] Resolved module firebase-functions {\"declared\":true,\"installed\":true,\"version\":\"3.24.1\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js\"}"}}
+[debug] [2022-12-26T23:59:49.187Z] [runtime-status] [52138] Checked functions.config() {"config":{}} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"[runtime-status] [52138] Checked functions.config() {\"config\":{}}"}}
+[debug] [2022-12-26T23:59:49.187Z] [runtime-status] [52138] firebase-functions has been stubbed. {"functionsResolution":{"declared":true,"installed":true,"version":"3.24.1","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js"}} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"[runtime-status] [52138] firebase-functions has been stubbed. {\"functionsResolution\":{\"declared\":true,\"installed\":true,\"version\":\"3.24.1\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js\"}}"}}
+[debug] [2022-12-26T23:59:49.188Z] [runtime-status] [52138] Resolved module firebase-functions {"declared":true,"installed":true,"version":"3.24.1","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"[runtime-status] [52138] Resolved module firebase-functions {\"declared\":true,\"installed\":true,\"version\":\"3.24.1\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js\"}"}}
+[debug] [2022-12-26T23:59:49.188Z] [runtime-status] [52138] Resolved module firebase-admin {"declared":true,"installed":true,"version":"10.3.0","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"[runtime-status] [52138] Resolved module firebase-admin {\"declared\":true,\"installed\":true,\"version\":\"10.3.0\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js\"}"}}
+[debug] [2022-12-26T23:59:49.188Z] [runtime-status] [52138] Resolved module firebase-functions {"declared":true,"installed":true,"version":"3.24.1","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"[runtime-status] [52138] Resolved module firebase-functions {\"declared\":true,\"installed\":true,\"version\":\"3.24.1\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-functions/lib/index.js\"}"}}
+[debug] [2022-12-26T23:59:49.188Z] [runtime-status] [52138] firebase-admin has been stubbed. {"adminResolution":{"declared":true,"installed":true,"version":"10.3.0","resolution":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js"}} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"[runtime-status] [52138] firebase-admin has been stubbed. {\"adminResolution\":{\"declared\":true,\"installed\":true,\"version\":\"10.3.0\",\"resolution\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/node_modules/firebase-admin/lib/index.js\"}}"}}
+[debug] [2022-12-26T23:59:49.513Z] [runtime-status] [52138] initializeApp(DEFAULT) {"storageBucket":"web3-atl-nfts.appspot.com","projectId":"web3-atl-nfts"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"[runtime-status] [52138] initializeApp(DEFAULT) {\"storageBucket\":\"web3-atl-nfts.appspot.com\",\"projectId\":\"web3-atl-nfts\"}"}}
+[debug] [2022-12-26T23:59:49.516Z] [runtime-status] [52138] Functions runtime initialized. {"cwd":"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions","node_version":"16.15.1"} {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"[runtime-status] [52138] Functions runtime initialized. {\"cwd\":\"/Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions\",\"node_version\":\"16.15.1\"}"}}
+[debug] [2022-12-26T23:59:49.516Z] [runtime-status] [52138] Listening to port: /var/folders/ts/d5qnrw196k7c1hybt81dzw2m0000gn/T/fire_emu_b120538c88a63f7c.sock {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"[runtime-status] [52138] Listening to port: /var/folders/ts/d5qnrw196k7c1hybt81dzw2m0000gn/T/fire_emu_b120538c88a63f7c.sock"}}
+[debug] [2022-12-26T23:59:49.620Z] [worker-us-central1-generateHackerProof-45396331-f858-40c5-908b-706bef4035aa]: IDLE {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-generateHackerProof-45396331-f858-40c5-908b-706bef4035aa]: IDLE"}}
+[debug] [2022-12-26T23:59:49.620Z] [worker-pool] submitRequest(triggerId=us-central1-generateHackerProof) {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] submitRequest(triggerId=us-central1-generateHackerProof)"}}
+[debug] [2022-12-26T23:59:49.620Z] [worker-us-central1-generateHackerProof-45396331-f858-40c5-908b-706bef4035aa]: BUSY {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-generateHackerProof-45396331-f858-40c5-908b-706bef4035aa]: BUSY"}}
+[info] i  functions: Beginning execution of "generateHackerProof" {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"Beginning execution of \"generateHackerProof\""}}
+[debug] [2022-12-26T23:59:49.783Z] Dec 26, 2022 5:59:49 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:59:49 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:59:49.812Z] [worker-us-central1-generateHackerProof-45396331-f858-40c5-908b-706bef4035aa]: IDLE {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-generateHackerProof-45396331-f858-40c5-908b-706bef4035aa]: IDLE"}}
+[debug] [2022-12-26T23:59:49.812Z] [work-queue] {"queueLength":0,"workRunningCount":0}
+[info] i  functions: Finished "generateHackerProof" in 189.1845ms {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-generateHackerProof"},"extension":{},"message":"Finished \"generateHackerProof\" in 189.1845ms"}}
+[debug] [2022-12-26T23:59:51.904Z] Dec 26, 2022 5:59:51 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:59:51 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-26T23:59:52.685Z] Dec 26, 2022 5:59:52 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 5:59:52 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-27T00:00:22.735Z] File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers {"metadata":{"emulator":{"name":"functions"},"message":"File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers"}}
+[debug] [2022-12-27T00:00:22.736Z] Dec 26, 2022 6:00:22 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Dec 26, 2022 6:00:22 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2022-12-27T00:00:22.844Z] File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers {"metadata":{"emulator":{"name":"functions"},"message":"File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers"}}
+[debug] [2022-12-27T00:00:22.945Z] File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers {"metadata":{"emulator":{"name":"functions"},"message":"File /Users/thanhtrinh/Documents/GitHub/Web3ATL_NFTs_Firebase/functions/index.js changed, reloading triggers"}}
+[debug] [2022-12-27T00:00:23.947Z] Validating nodejs source
+[warn] ⚠  functions: package.json indicates an outdated version of firebase-functions. Please upgrade using npm install --save firebase-functions@latest in your functions directory. 
+[warn] ⚠  functions: Please note that there will be breaking changes when you upgrade. 
+[debug] [2022-12-27T00:00:24.721Z] > [functions] package.json contents: {
+  "name": "functions",
+  "description": "Cloud Functions for Firebase",
+  "scripts": {
+    "serve": "firebase emulators:start --only functions",
+    "shell": "firebase functions:shell",
+    "start": "npm run shell",
+    "deploy": "firebase deploy --only functions",
+    "logs": "firebase functions:log"
+  },
+  "engines": {
+    "node": "16"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "firebase-admin": "^10.0.2",
+    "firebase-functions": "^3.18.0",
+    "ethers": "^5.7.2",
+    "fs": "^0.0.1-security",
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.3.9",
+    "web3": "^1.8.1"
+  },
+  "devDependencies": {
+    "firebase-functions-test": "^0.2.0"
+  },
+  "private": true
+}
+[debug] [2022-12-27T00:00:24.722Z] Building nodejs source
+[debug] [2022-12-27T00:00:24.722Z] Analyzing nodejs backend spec
+[debug] [2022-12-27T00:00:24.722Z] Could not find functions.yaml. Must use http discovery
+[debug] [2022-12-27T00:00:24.810Z] Serving at port 9005
+
+[debug] [2022-12-27T00:00:25.166Z] Got response from /__/functions.yaml {"endpoints":{"addMessage":{"platform":"gcfv1","httpsTrigger":{},"entryPoint":"addMessage"},"makeUppercase":{"platform":"gcfv1","eventTrigger":{"eventType":"providers/cloud.firestore/eventTypes/document.create","eventFilters":{"resource":"projects/web3-atl-nfts/databases/(default)/documents/messages/{documentId}"},"retry":false},"labels":{},"entryPoint":"makeUppercase"},"addAddress":{"platform":"gcfv1","httpsTrigger":{},"entryPoint":"addAddress"},"generateHackerProof":{"platform":"gcfv1","httpsTrigger":{},"entryPoint":"generateHackerProof"},"generateGeneralProof":{"platform":"gcfv1","httpsTrigger":{},"entryPoint":"generateGeneralProof"},"generateTeamProof":{"platform":"gcfv1","httpsTrigger":{},"entryPoint":"generateTeamProof"},"generateSpeakerProof":{"platform":"gcfv1","httpsTrigger":{},"entryPoint":"generateSpeakerProof"},"generateProof":{"platform":"gcfv1","eventTrigger":{"eventType":"providers/cloud.firestore/eventTypes/document.create","eventFilters":{"resource":"projects/web3-atl-nfts/databases/(default)/documents/ProofForAddress/{documentId}"},"retry":false},"labels":{},"entryPoint":"generateProof"}},"specVersion":"v1alpha1","requiredAPIs":[]}
+[debug] [2022-12-27T00:00:25.168Z] shutdown requested via /__/quitquitquit
+
+[info] ✔  functions: Loaded functions definitions from source: addMessage, makeUppercase, addAddress, generateHackerProof, generateGeneralProof, generateTeamProof, generateSpeakerProof, generateProof. {"metadata":{"emulator":{"name":"functions"},"message":"Loaded functions definitions from source: addMessage, makeUppercase, addAddress, generateHackerProof, generateGeneralProof, generateTeamProof, generateSpeakerProof, generateProof."}}
+[debug] [2022-12-27T00:00:25.174Z] [worker-pool] Shutting down IDLE worker (us-central1-addAddress) {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] Shutting down IDLE worker (us-central1-addAddress)"}}
+[debug] [2022-12-27T00:00:25.174Z] [worker-us-central1-addAddress-ca97c930-394f-40a1-8bc0-265a5683a6e9]: FINISHING {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-addAddress-ca97c930-394f-40a1-8bc0-265a5683a6e9]: FINISHING"}}
+[debug] [2022-12-27T00:00:25.174Z] [worker-pool] Shutting down IDLE worker (us-central1-generateHackerProof) {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] Shutting down IDLE worker (us-central1-generateHackerProof)"}}
+[debug] [2022-12-27T00:00:25.174Z] [worker-us-central1-generateHackerProof-45396331-f858-40c5-908b-706bef4035aa]: FINISHING {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-generateHackerProof-45396331-f858-40c5-908b-706bef4035aa]: FINISHING"}}
+[debug] [2022-12-27T00:00:25.178Z] [worker-us-central1-generateHackerProof-45396331-f858-40c5-908b-706bef4035aa]: exited {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-generateHackerProof-45396331-f858-40c5-908b-706bef4035aa]: exited"}}
+[debug] [2022-12-27T00:00:25.178Z] [worker-us-central1-generateHackerProof-45396331-f858-40c5-908b-706bef4035aa]: FINISHED {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-generateHackerProof-45396331-f858-40c5-908b-706bef4035aa]: FINISHED"}}
+[debug] [2022-12-27T00:00:25.178Z] [worker-us-central1-addAddress-ca97c930-394f-40a1-8bc0-265a5683a6e9]: exited {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-addAddress-ca97c930-394f-40a1-8bc0-265a5683a6e9]: exited"}}
+[debug] [2022-12-27T00:00:25.178Z] [worker-us-central1-addAddress-ca97c930-394f-40a1-8bc0-265a5683a6e9]: FINISHED {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-addAddress-ca97c930-394f-40a1-8bc0-265a5683a6e9]: FINISHED"}}

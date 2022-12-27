@@ -21,7 +21,7 @@ exports.addMessage = functions.https.onRequest(async (req, res) => {
   // Grab the text parameter.
   const original = req.query.text;
   // Push the new message into Firestore using the Firebase Admin SDK.
-  const writeResult = await admin.firestore().collection('messages').add({original: original});
+  const writeResult = await admin.firestore().collection('messages').add({original: original, adding: original});
   // Send back a message that we've successfully written the message
   res.json({result: `Message with ID: ${writeResult.id} added.`});
 });
@@ -70,7 +70,7 @@ exports.generateHackerProof = functions.https.onRequest(async (req, res) => {
     let hackerProof = merkleTreeHacker.getHexProof(ethers.utils.solidityKeccak256(["address"], [original]));
 
     
-    res.writeResult = await admin.firestore().collection("HackerProof").add({address: original}, {hacker_proof: hackerProof});
+    res.writeResult = await admin.firestore().collection("HackerProof").add({address: original, hacker_proof: hackerProof});
     res.json({result: `Address: ${original} gives the corresponding ${hackerProof}`});
 })
 
@@ -93,7 +93,7 @@ exports.generateGeneralProof = functions.https.onRequest(async (req, res) => {
     let generalProof = merkleTreeGeneral.getHexProof(ethers.utils.solidityKeccak256(["address"], [original]));
 
     
-    res.writeResult = await admin.firestore().collection("GeneralProof").add({address: original}, {genereal_proof: generalProof});
+    res.writeResult = await admin.firestore().collection("GeneralProof").add({address: original, genereal_proof: generalProof});
     res.json({result: `Address: ${original} gives the corresponding ${generalProof}`});
 })
 
@@ -116,7 +116,7 @@ exports.generateTeamProof = functions.https.onRequest(async (req, res) => {
     let TeamProof = merkleTreeTeam.getHexProof(ethers.utils.solidityKeccak256(["address"], [original]));
 
     
-    res.writeResult = await admin.firestore().collection("TeamProof").add({address: original}, {team_proof: teamProof});
+    res.writeResult = await admin.firestore().collection("TeamProof").add({address: original, team_proof: teamProof});
     res.json({result: `Address: ${original} gives the corresponding ${teamProof}`});
 })
 
@@ -138,7 +138,7 @@ exports.generateSpeakerProof = functions.https.onRequest(async (req, res) => {
     let speakerProof = merkleTreeSpeaker.getHexProof(ethers.utils.solidityKeccak256(["address"], [original]));
 
     
-    res.writeResult = await admin.firestore().collection("SpeakerProof").add({address: original}, {speaker_proof: speakerProof});
+    res.writeResult = await admin.firestore().collection("SpeakerProof").add({address: original, speaker_proof: speakerProof});
     res.json({result: `Address: ${original} gives the corresponding ${speakerProof}}`});
 })
 
